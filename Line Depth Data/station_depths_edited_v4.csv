@@ -1,0 +1,426 @@
+station_name,ground_level,line,raw_platform_depth,platform_depth
+Baker Street,27,Bakerloo,106.7,20.3
+Charing Cross,12,Bakerloo,88.19,23.81
+Edgware Road Bakerloo,32,Bakerloo,107.13,24.87
+Elephant & Castle,3,Bakerloo,80.16,22.84
+Embankment,5,Bakerloo,85.13,19.87
+Harlesden,38,Bakerloo,131.8,6.2
+Harrow & Wealdstone,52,Bakerloo,154.2,-2.2
+Kensal Green,42,Bakerloo,135.4,6.6
+Kenton,56,Bakerloo,149.4,6.6
+Kilburn Park,27,Bakerloo,119.52,7.48
+Lambeth North,3,Bakerloo,86.475,16.525
+Maida Vale,31,Bakerloo,116.58,14.42
+Marylebone,29,Bakerloo,106.37,22.63
+North Wembley,48,Bakerloo,142,6
+Oxford Circus,27,Bakerloo,104.69,22.31
+Paddington,25,Bakerloo,109.27,15.73
+Piccadilly Circus,19,Bakerloo,93.8,25.2
+Queen's Park,38,Bakerloo,132.4,5.6
+Regent's Park,28,Bakerloo,103.185,24.815
+South Kenton,43,Bakerloo,146.4,-3.4
+Stonebridge Park,24,Bakerloo,131.5,-7.5
+Warwick Avenue,27,Bakerloo,112.47,14.53
+Waterloo,4,Bakerloo,86.63,17.37
+Wembley Central,45,Bakerloo,138.5,6.5
+Willesden Junction,40,Bakerloo,134.5,5.5
+Bank,14,Central,93.495,20.505
+Barkingside,25,Central,125.5,-0.5
+Bethnal Green,14,Central,98.03,15.97
+Bond Street,22,Central,101,21
+Buckhurst Hill,40,Central,134.9,5.1
+Chancery Lane,20,Central,97.805,22.195
+Chigwell,44,Central,139,5
+Debden,37,Central,136.4,0.6
+Ealing Broadway,33,Central,127.9,5.1
+East Acton,12,Central,117.9,-5.9
+Epping,81,Central,179.5,1.5
+Fairlop,30,Central,135.2,-5.2
+Gants Hill,25,Central,108.53,16.47
+Grange Hill,55,Central,148.8,6.2
+Greenford,22,Central,132.2,-10.2
+Hainault,36,Central,141.2,-5.2
+Hanger Lane,40,Central,131.9,8.1
+Holborn,23,Central,96.755,26.245
+Holland Park,14,Central,95.21,18.79
+Lancaster Gate,18,Central,102.47,15.53
+Leyton,15,Central,110,5
+Leytonstone,23.2,Central,123.1,0.1
+Liverpool Street,14,Central,92.47,21.53
+Loughton,27,Central,129.6,-2.6
+Marble Arch,27,Central,101.405,25.595
+Mile End,12,Central,104.83,7.17
+Newbury Park,19,Central,117,2
+North Acton,33,Central,124.4,8.6
+Northolt,43,Central,137.8,5.2
+Notting Hill Gate,28,Central,99.88,28.12
+Oxford Circus,27,Central,100.6,26.4
+Perivale,20,Central,126.6,-6.6
+Queensway,27,Central,103.095,23.905
+Redbridge,12,Central,106.765,5.235
+Roding Valley,31,Central,131.2,-0.2
+Ruislip Gardens,37,Central,141.5,-4.5
+Shepherd's Bush,6,Central,89.82,16.18
+Snaresbrook,22,Central,127.4,-5.4
+South Ruislip,37,Central,141.4,-4.4
+South Woodford,28,Central,128.8,-0.8
+St. Paul's,17,Central,92.59,24.41
+Stratford,4,Central,107.2,-3.2
+Theydon Bois,54,Central,153.1,0.9
+Tottenham Court Road,25,Central,100.2,24.8
+Wanstead,29,Central,109.635,19.365
+West Acton,33,Central,127.4,5.6
+West Ruislip,51,Central,145.1,5.9
+White City,7,Central,105,2
+Woodford,32,Central,131.1,0.9
+Aldgate,16,Circle,108.8,7.2
+Baker Street,27,Circle,120.5,6.5
+Barbican,18,Circle,109.4,8.6
+Bayswater,25,Circle,117.96,7.04
+Blackfriars,8,Circle,100.7,7.3
+Cannon Street,11,Circle,104.4,6.6
+Edgware Road Circle,,Circle,124.8,5.2
+Embankment,5,Circle,99.6,5.4
+Euston Square,25,Circle,118.1,6.9
+Farringdon,11,Circle,106.5,4.5
+Gloucester Road,7,Circle,99.95,7.05
+Goldhawk Road,5,Circle,111,-6
+Great Portland Street,,Circle,121.4,7.6
+Hammersmith,5,Circle,104.4,0.6
+High Street Kensington,13,Circle,107.3,5.7
+King's Cross St. Pancras,17,Circle,109.1,7.9
+Ladbroke Grove,14,Circle,119.4,-5.4
+Latimer Road,8,Circle,114,-6
+Liverpool Street,14,Circle,107.4,6.6
+Mansion House,14,Circle,105,9
+Monument,14.3,Circle,106.2,8.1
+Moorgate,14,Circle,108.5,5.5
+Notting Hill Gate,28,Circle,119.4,8.6
+Paddington,25,Circle,122.4,2.6
+Royal Oak,27,Circle,121,6
+Shepherd's Bush Market,6,Circle,111.9,-5.9
+Sloane Square,6,Circle,97.6,8.4
+South Kensington,,Circle,99.975,7.025
+St. James's Park,4,Circle,98.2,5.8
+Temple,5,Circle,99.2,5.8
+Tower Hill,14,Circle,106.95,7.05
+Victoria,4.6,Circle,97,7.6
+Westbourne Park,28,Circle,122.5,5.5
+Westminster,6,Circle,99,7
+Wood Lane,6.7,Circle,113.1,-6.4
+Acton Town,21,District,115.5,5.5
+Aldgate East,14,District,105.01,8.99
+Barking,9,District,106.4,2.6
+Barons Court,4.6,District,101.9,2.7
+Bayswater,25,District,117.96,7.04
+Becontree,11,District,106.1,4.9
+Blackfriars,8,District,100.7,7.3
+Bow Road,12,District,106.8,5.2
+Bromley-by-Bow,15,District,112.2,2.8
+Cannon Street,11,District,104.4,6.6
+Chiswick Park,10,District,113,-3
+Dagenham East,10,District,106.4,3.6
+Dagenham Heathway,11,District,106.2,4.8
+Ealing Broadway,33,District,127.9,5.1
+Ealing Common,29,District,124,5
+Earl's Court,8,District,102.2,5.8
+East Ham,11,District,105.7,5.3
+East Putney,17,District,125,-8
+Edgware Road Circle,30,District,124.8,5.2
+Elm Park,18,District,112.2,5.7
+Embankment,5,District,99.6,5.4
+Fulham Broadway,4,District,98.7,5.3
+Gloucester Road,7,District,99.95,7.05
+Gunnersbury,10,District,106,4
+Hammersmith,5,District,100.4,4.6
+High Street Kensington,13,District,107.3,5.7
+Hornchurch,24,District,118.2,5.8
+Kensington (Olympia),4,District,102.1,1.9
+Kew Gardens,8,District,106,2
+Mansion House,14,District,105,9
+Mile End,12,District,104.72,7.28
+Monument,14.3,District,106.2,8.1
+Notting Hill Gate,28,District,119.4,8.6
+Paddington,25,District,118.8,6.2
+Parsons Green,3,District,108,-5
+Plaistow,9,District,102.4,6.6
+Putney Bridge,4,District,111,-7
+Ravenscourt Park,5,District,111,-6
+Richmond,8,District,107,1
+Sloane Square,6,District,97.6,8.4
+South Kensington,7,District,99.975,7.025
+Southfields,23,District,117,6
+St. James's Park,4,District,98.2,5.8
+Stamford Brook,5,District,111.4,-6.4
+Stepney Green,10,District,102.82,7.18
+Temple,5,District,99.2,5.8
+Tower Hill,14,District,106.95,7.05
+Turnham Green,5,District,110.9,-5.9
+Upminster,28,District,119.2,8.8
+Upminster Bridge,15,District,119.3,-4.3
+Upney,12,District,106.3,5.7
+Upton Park,11,District,105.3,5.7
+Victoria,4.6,District,97,7.6
+West Brompton,7,District,102.04,4.96
+West Ham,1,District,104.7,-3.7
+West Kensington,5,District,99.35,5.65
+Westminster,6,District,99,7
+Whitechapel,12,District,109.115,2.885
+Wimbledon,23,District,119.3,3.7
+Wimbledon Park,23,District,118.4,4.6
+Abbey Road,0,Docklands Light Railway,-10,-10
+All Saints,0,Docklands Light Railway,-10,-10
+Bank,0,Docklands Light Railway,-10,-10
+Beckton,0,Docklands Light Railway,-10,-10
+Beckton Park,0,Docklands Light Railway,-10,-10
+Blackwall,0,Docklands Light Railway,-10,-10
+Bow Church,0,Docklands Light Railway,-10,-10
+Canary Wharf,0,Docklands Light Railway,-10,-10
+Canning Town,0,Docklands Light Railway,-10,-10
+Crossharbour & London Arena,0,Docklands Light Railway,-10,-10
+Custom House,0,Docklands Light Railway,-10,-10
+Cutty Sark,0,Docklands Light Railway,-10,-10
+Cyprus,0,Docklands Light Railway,-10,-10
+Deptford Bridge,0,Docklands Light Railway,-10,-10
+Devons Road,0,Docklands Light Railway,-10,-10
+East India,0,Docklands Light Railway,-10,-10
+Elverson Road,0,Docklands Light Railway,-10,-10
+Gallions Reach,0,Docklands Light Railway,-10,-10
+Greenwich,0,Docklands Light Railway,-10,-10
+Heron Quays,0,Docklands Light Railway,-10,-10
+Island Gardens,0,Docklands Light Railway,-10,-10
+King George V,0,Docklands Light Railway,-10,-10
+Langdon Park,0,Docklands Light Railway,-10,-10
+Lewisham,0,Docklands Light Railway,-10,-10
+Limehouse,0,Docklands Light Railway,-10,-10
+London City Airport,0,Docklands Light Railway,-10,-10
+Mudchute,0,Docklands Light Railway,-10,-10
+Pontoon Dock,0,Docklands Light Railway,-10,-10
+Poplar,0,Docklands Light Railway,-10,-10
+Prince Regent,0,Docklands Light Railway,-10,-10
+Pudding Mill Lane,0,Docklands Light Railway,-10,-10
+Royal Albert,0,Docklands Light Railway,-10,-10
+Royal Victoria,0,Docklands Light Railway,-10,-10
+Shadwell,0,Docklands Light Railway,-10,-10
+South Quay,0,Docklands Light Railway,-10,-10
+Star Lane,0,Docklands Light Railway,-10,-10
+Stratford,0,Docklands Light Railway,-10,-10
+Stratford High Street,0,Docklands Light Railway,-10,-10
+Stratford International,0,Docklands Light Railway,-10,-10
+Tower Gateway,0,Docklands Light Railway,-10,-10
+West Ham,0,Docklands Light Railway,-10,-10
+West India Quay,0,Docklands Light Railway,-10,-10
+West Silvertown,0,Docklands Light Railway,-10,-10
+Westferry,0,Docklands Light Railway,-10,-10
+Woolwich Arsenal,0,Docklands Light Railway,-10,-10
+Aldgate East,14,Hammersmith & City,105.01,8.99
+Baker Street,27,Hammersmith & City,118.85,8.15
+Barbican,18,Hammersmith & City,109.4,8.6
+Barking,9,Hammersmith & City,106.4,2.6
+Bow Road,12,Hammersmith & City,106.8,5.2
+Bromley-by-Bow,15,Hammersmith & City,112.2,2.8
+East Ham,11,Hammersmith & City,105.7,5.3
+Edgware Road Circle,30,Hammersmith & City,124.8,5.2
+Euston Square,25,Hammersmith & City,118.1,6.9
+Farringdon,11,Hammersmith & City,106.5,4.5
+Goldhawk Road,5,Hammersmith & City,111,-6
+Great Portland Street,29,Hammersmith & City,121.4,7.6
+Hammersmith,5,Hammersmith & City,104.4,0.6
+King's Cross St. Pancras,17,Hammersmith & City,109.1,7.9
+Ladbroke Grove,14,Hammersmith & City,119.4,-5.4
+Latimer Road,8,Hammersmith & City,114,-6
+Liverpool Street,14,Hammersmith & City,107.4,6.6
+Mile End,12,Hammersmith & City,104.72,7.28
+Moorgate,14,Hammersmith & City,108.5,5.5
+Paddington,25,Hammersmith & City,122.4,2.6
+Plaistow,9,Hammersmith & City,102.4,6.6
+Royal Oak,27,Hammersmith & City,121,6
+Shepherd's Bush Market,6,Hammersmith & City,111.9,-5.9
+Stepney Green,10,Hammersmith & City,102.82,7.18
+Upton Park,11,Hammersmith & City,105.3,5.7
+West Ham,1,Hammersmith & City,104.7,-3.7
+Westbourne Park,28,Hammersmith & City,122.5,5.5
+Whitechapel,12,Hammersmith & City,109.115,2.885
+Wood Lane,6.7,Hammersmith & City,113.1,-6.4
+Baker Street,27,Jubilee,105.85,21.15
+Bermondsey,2,Jubilee,87.5,14.5
+Bond Street,22,Jubilee,91,31
+Canada Water,5,Jubilee,86.675,18.325
+Canary Wharf,3,Jubilee,84.35,18.65
+Canning Town,2,Jubilee,100,2
+Canons Park,65,Jubilee,170.1,-5.1
+Dollis Hill,37,Jubilee,139.4,-2.4
+Finchley Road,52,Jubilee,148.7,3.3
+Green Park,18,Jubilee,87,31
+Kilburn,45,Jubilee,152.2,-7.2
+Kingsbury,43,Jubilee,138.3,4.7
+London Bridge,4,Jubilee,76.8,27.2
+Neasden,38,Jubilee,132.2,5.8
+North Greenwich,2,Jubilee,86.46,15.54
+Queensbury,48,Jubilee,151.2,-3.2
+Southwark,4,Jubilee,79.51,24.49
+St. John's Wood,49,Jubilee,131.44,17.56
+Stanmore,85,Jubilee,176.8,8.2
+Stratford,4,Jubilee,104,0
+Swiss Cottage,57,Jubilee,140.11,16.89
+Waterloo,4,Jubilee,73.98,30.02
+Wembley Park,41,Jubilee,136.7,4.3
+West Ham,1,Jubilee,101.2,-0.2
+West Hampstead,56,Jubilee,150.5,5.5
+Westminster,6,Jubilee,79.295,26.705
+Willesden Green,56,Jubilee,150.3,5.7
+Aldgate,16,Metropolitan,108.8,7.2
+Amersham,145,Metropolitan,249.3,-4.3
+Baker Street,27,Metropolitan,120.5,6.5
+Barbican,18,Metropolitan,109.4,8.6
+Chalfont & Latimer,122,Metropolitan,220.7,1.3
+Chesham,110,Metropolitan,210.2,-0.2
+Chorleywood,89,Metropolitan,188.3,0.7
+Croxley,72,Metropolitan,165.4,6.6
+Eastcote,53,Metropolitan,148.1,4.9
+Euston Square,25,Metropolitan,118.1,6.9
+Farringdon,11,Metropolitan,106.5,4.5
+Finchley Road,52,Metropolitan,148.7,3.3
+Great Portland Street,29,Metropolitan,121.4,7.6
+Harrow on the Hill,69,Metropolitan,167.1,1.9
+Hillingdon,36,Metropolitan,136.7,-0.7
+Ickenham,43,Metropolitan,138.1,4.9
+King's Cross St. Pancras,17,Metropolitan,109.1,7.9
+Liverpool Street,14,Metropolitan,107.4,6.6
+Moor Park,57,Metropolitan,161.5,-4.5
+Moorgate,14,Metropolitan,108.5,5.5
+North Harrow,51,Metropolitan,157,-6
+Northwick Park,56,Metropolitan,157.9,-1.9
+Northwood,77,Metropolitan,171.6,5.4
+Northwood Hills,71,Metropolitan,165,6
+Pinner,54,Metropolitan,153.5,0.5
+Preston Road,45,Metropolitan,141.1,3.9
+Rayners Lane,55,Metropolitan,148.8,6.2
+Rickmansworth,58,Metropolitan,157.6,0.4
+Ruislip,46,Metropolitan,145.6,0.4
+Ruislip Manor,44,Metropolitan,149.6,-5.6
+Uxbridge,40,Metropolitan,140.1,-0.1
+Watford,70,Metropolitan,164.8,5.2
+Wembley Park,41,Metropolitan,136.7,4.3
+West Harrow,53,Metropolitan,157.5,-4.5
+Angel,34,Northern,98.35,35.65
+Archway,56,Northern,134.73,21.27
+Balham,26,Northern,112.62,13.38
+Bank,14,Northern,84.405,29.595
+Belsize Park,68,Northern,132.415,35.585
+Borough,4,Northern,86.52,17.48
+Brent Cross,48,Northern,151.9,-3.9
+Burnt Oak,51,Northern,147,4
+Camden Town,27,Northern,110.545,16.455
+Chalk Farm,32,Northern,118.61,13.39
+Charing Cross,12,Northern,91.56,20.44
+Clapham Common,21,Northern,100.8,20.2
+Clapham North,13,Northern,98.73,14.27
+Clapham South,28,Northern,110.12,17.88
+Colindale,49,Northern,144,5
+Colliers Wood,12,Northern,98.92,13.08
+East Finchley,83,Northern,187.4,-4.4
+Edgware,59,Northern,154.6,4.4
+Elephant & Castle,3,Northern,84.615,18.385
+Embankment,5,Northern,88.685,16.315
+Euston,25,Northern,97.8925,27.1075
+Finchley Central,87,Northern,178.5,8.5
+Golders Green,70,Northern,173.1,-3.1
+Goodge Street,27,Northern,98.08,28.92
+Hampstead,108,Northern,149.475,58.525
+Hendon Central,64,Northern,161.5,2.5
+High Barnet,111,Northern,198.4,12.6
+Highgate,100,Northern,162.67,37.33
+Kennington,3,Northern,85.7575,17.2425
+Kentish Town,37,Northern,114.385,22.615
+King's Cross St. Pancras,17,Northern,88.91,28.09
+Leicester Square,20,Northern,93.5,26.5
+London Bridge,4,Northern,80.405,23.595
+Mill Hill East,65,Northern,170.8,-5.8
+Moorgate,14,Northern,88.7566666667,25.2433333333
+Morden,18,Northern,113.6,4.4
+Mornington Crescent,24,Northern,108.71,15.29
+Old Street,17,Northern,91.99,25.01
+Oval,4,Northern,88.28,15.72
+South Wimbledon,14,Northern,101.32,12.68
+Stockwell,6,Northern,92.31,13.69
+Tooting Bec,28,Northern,111.62,16.38
+Tooting Broadway,16,Northern,103.22,12.78
+Tottenham Court Road,25,Northern,94.27,30.73
+Totteridge & Whetstone,75,Northern,173.8,1.2
+Tufnell Park,44,Northern,123.29,20.71
+Warren Street,27,Northern,101.64,25.36
+Waterloo,4,Northern,82.81,21.19
+West Finchley,78,Northern,177.3,0.7
+Woodside Park,76,Northern,174.3,1.7
+Acton Town,21,Piccadilly,115.5,5.5
+Alperton,33,Piccadilly,139.8,-6.8
+Arnos Grove,43,Piccadilly,137.6,5.4
+Arsenal,25,Piccadilly,116.76,8.24
+Barons Court,4.6,Piccadilly,102.2,2.4
+Boston Manor,25,Piccadilly,119.4,5.6
+Bounds Green,47,Piccadilly,130.82,16.18
+Caledonian Road,36,Piccadilly,112.93,23.07
+Cockfosters,98,Piccadilly,194,4
+Covent Garden,23,Piccadilly,86.01,36.99
+Ealing Common,29,Piccadilly,124,5
+Earl's Court,8,Piccadilly,87.38,20.62
+Eastcote,53,Piccadilly,148.1,4.9
+Finsbury Park,32,Piccadilly,123.92,8.08
+Gloucester Road,7,Piccadilly,87.38,19.62
+Green Park,18,Piccadilly,91.5,26.5
+Hammersmith,5,Piccadilly,100.4,4.6
+Hatton Cross,22,Piccadilly,113.4,8.6
+Heathrow Terminal 4,23,Piccadilly,112.9,10.1
+Heathrow Terminal 5,23,Piccadilly,110.3,12.7
+"Heathrow Terminals 1, 2, 3",23,Piccadilly,109.6,13.4
+Hillingdon,36,Piccadilly,136.7,-0.7
+Holborn,23,Piccadilly,85.095,37.905
+Holloway Road,29,Piccadilly,115.4,13.6
+Hounslow Central,20,Piccadilly,124.9,-4.9
+Hounslow East,20,Piccadilly,125.8,-5.8
+Hounslow West,23,Piccadilly,117.7,5.3
+Hyde Park Corner,16,Piccadilly,88.91,27.09
+Ickenham,43,Piccadilly,138.1,4.9
+King's Cross St. Pancras,17,Piccadilly,94.36,22.64
+Knightsbridge,9,Piccadilly,86.72,22.28
+Leicester Square,20,Piccadilly,86.77,33.23
+Manor House,38,Piccadilly,119.51,18.49
+North Ealing,36,Piccadilly,132.5,3.5
+Northfields,24,Piccadilly,119.3,4.7
+Oakwood,88,Piccadilly,181.8,6.2
+Osterley,30,Piccadilly,124.2,5.8
+Park Royal,47,Piccadilly,142.2,4.8
+Piccadilly Circus,19,Piccadilly,86.77,32.23
+Rayners Lane,55,Piccadilly,148.8,6.2
+Ruislip,46,Piccadilly,145.6,0.4
+Ruislip Manor,44,Piccadilly,149.6,-5.6
+Russell Square,23,Piccadilly,89.82,33.18
+South Ealing,24,Piccadilly,120.3,3.7
+South Harrow,61,Piccadilly,166.8,-5.8
+South Kensington,7,Piccadilly,86.255,20.745
+Southgate,71,Piccadilly,160.23,10.77
+Sudbury Hill,60,Piccadilly,154.2,5.8
+Sudbury Town,48,Piccadilly,147.6,0.4
+Turnham Green,5,Piccadilly,110.9,-5.9
+Turnpike Lane,21,Piccadilly,106.28,14.72
+Uxbridge,40,Piccadilly,140.1,-0.1
+Wood Green,25,Piccadilly,113.59,11.41
+Blackhorse Road,12,Victoria,96.44,15.56
+Brixton,14,Victoria,94.79,19.21
+Euston,25,Victoria,92.53,32.47
+Finsbury Park,32,Victoria,123.455,8.545
+Green Park,18,Victoria,94.92,23.08
+Highbury & Islington,34,Victoria,117.855,16.145
+King's Cross St. Pancras,17,Victoria,99.915,17.085
+Oxford Circus,27,Victoria,104.14,22.86
+Pimlico,5,Victoria,83.91,21.09
+Seven Sisters,11,Victoria,92.99,18.01
+Stockwell,6,Victoria,92.29,13.71
+Tottenham Hale,11,Victoria,91.73,19.27
+Vauxhall,4,Victoria,86.28,17.72
+Victoria,4.6,Victoria,85.17,19.43
+Walthamstow Central,24,Victoria,106.8,17.2
+Warren Street,27,Victoria,96.08,30.92
+Bank,14,Waterloo & City,93.96,20.04
+Waterloo,4,Waterloo & City,98.18,5.82

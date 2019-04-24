@@ -1,0 +1,3763 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="pm25_per_station_line" id="pm25_per_station_line">
+	<SimpleField name="line" type="string"></SimpleField>
+	<SimpleField name="station" type="string"></SimpleField>
+	<SimpleField name="pm25" type="int"></SimpleField>
+	<SimpleField name="longitude" type="float"></SimpleField>
+	<SimpleField name="latitude" type="float"></SimpleField>
+</Schema>
+<Folder><name>pm25_per_station_line</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Victoria</SimpleData>
+		<SimpleData name="station">Brixton</SimpleData>
+		<SimpleData name="pm25">374</SimpleData>
+		<SimpleData name="longitude">-0.114630326034099</SimpleData>
+		<SimpleData name="latitude">51.4625850090048</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.114630326034099,51.4625850090048</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Victoria</SimpleData>
+		<SimpleData name="station">Euston</SimpleData>
+		<SimpleData name="pm25">186</SimpleData>
+		<SimpleData name="longitude">-0.133285003609594</SimpleData>
+		<SimpleData name="latitude">51.5285920006576</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.133285003609594,51.5285920006576</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Victoria</SimpleData>
+		<SimpleData name="station">Finsbury Park</SimpleData>
+		<SimpleData name="pm25">468</SimpleData>
+		<SimpleData name="longitude">-0.106511568608855</SimpleData>
+		<SimpleData name="latitude">51.5644026557901</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.106511568608855,51.5644026557901</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Victoria</SimpleData>
+		<SimpleData name="station">Green Park</SimpleData>
+		<SimpleData name="pm25">308</SimpleData>
+		<SimpleData name="longitude">-0.14292070761651</SimpleData>
+		<SimpleData name="latitude">51.506848212113</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.14292070761651,51.506848212113</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Victoria</SimpleData>
+		<SimpleData name="station">Highbury &amp; Islington</SimpleData>
+		<SimpleData name="pm25">378</SimpleData>
+		<SimpleData name="longitude">-0.103963256648364</SimpleData>
+		<SimpleData name="latitude">51.5462326432576</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.103963256648364,51.5462326432576</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Victoria</SimpleData>
+		<SimpleData name="station">King's Cross St. Pancras</SimpleData>
+		<SimpleData name="pm25">196</SimpleData>
+		<SimpleData name="longitude">-0.12385439526953</SimpleData>
+		<SimpleData name="latitude">51.5303929190998</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.12385439526953,51.5303929190998</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Victoria</SimpleData>
+		<SimpleData name="station">Oxford Circus</SimpleData>
+		<SimpleData name="pm25">296</SimpleData>
+		<SimpleData name="longitude">-0.141762740053752</SimpleData>
+		<SimpleData name="latitude">51.5151209634782</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.141762740053752,51.5151209634782</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Victoria</SimpleData>
+		<SimpleData name="station">Pimlico</SimpleData>
+		<SimpleData name="pm25">460</SimpleData>
+		<SimpleData name="longitude">-0.133742297293802</SimpleData>
+		<SimpleData name="latitude">51.4891940528192</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.133742297293802,51.4891940528192</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Victoria</SimpleData>
+		<SimpleData name="station">Seven Sisters</SimpleData>
+		<SimpleData name="pm25">305</SimpleData>
+		<SimpleData name="longitude">-0.0724960511324448</SimpleData>
+		<SimpleData name="latitude">51.5833535398407</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.072496051132445,51.5833535398407</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Victoria</SimpleData>
+		<SimpleData name="station">Stockwell</SimpleData>
+		<SimpleData name="pm25">639</SimpleData>
+		<SimpleData name="longitude">-0.122903492778503</SimpleData>
+		<SimpleData name="latitude">51.472168973557</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.122903492778503,51.472168973557</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Victoria</SimpleData>
+		<SimpleData name="station">Vauxhall</SimpleData>
+		<SimpleData name="pm25">481</SimpleData>
+		<SimpleData name="longitude">-0.123743588072039</SimpleData>
+		<SimpleData name="latitude">51.4857342278684</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.123743588072039,51.4857342278684</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Victoria</SimpleData>
+		<SimpleData name="station">Victoria</SimpleData>
+		<SimpleData name="pm25">253</SimpleData>
+		<SimpleData name="longitude">-0.143852003214913</SimpleData>
+		<SimpleData name="latitude">51.4963417077255</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.143852003214913,51.4963417077255</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Victoria</SimpleData>
+		<SimpleData name="station">Warren Street</SimpleData>
+		<SimpleData name="pm25">298</SimpleData>
+		<SimpleData name="longitude">-0.138266856304429</SimpleData>
+		<SimpleData name="latitude">51.5245076509584</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.138266856304429,51.5245076509584</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Piccadilly</SimpleData>
+		<SimpleData name="station">Acton Town</SimpleData>
+		<SimpleData name="pm25">54</SimpleData>
+		<SimpleData name="longitude">-0.280257274070714</SimpleData>
+		<SimpleData name="latitude">51.5027466033931</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.280257274070714,51.5027466033931</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Piccadilly</SimpleData>
+		<SimpleData name="station">Arnos Grove</SimpleData>
+		<SimpleData name="pm25">50</SimpleData>
+		<SimpleData name="longitude">-0.133514422569791</SimpleData>
+		<SimpleData name="latitude">51.6163438111851</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.133514422569791,51.6163438111851</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Piccadilly</SimpleData>
+		<SimpleData name="station">Arsenal</SimpleData>
+		<SimpleData name="pm25">166</SimpleData>
+		<SimpleData name="longitude">-0.105761301182304</SimpleData>
+		<SimpleData name="latitude">51.558500471385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.105761301182304,51.558500471385</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Piccadilly</SimpleData>
+		<SimpleData name="station">Barons Court</SimpleData>
+		<SimpleData name="pm25">67</SimpleData>
+		<SimpleData name="longitude">-0.213605705235308</SimpleData>
+		<SimpleData name="latitude">51.4901590780153</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.213605705235308,51.4901590780153</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Piccadilly</SimpleData>
+		<SimpleData name="station">Boston Manor</SimpleData>
+		<SimpleData name="pm25">48</SimpleData>
+		<SimpleData name="longitude">-0.324764216990979</SimpleData>
+		<SimpleData name="latitude">51.4956933187823</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.324764216990979,51.4956933187823</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Piccadilly</SimpleData>
+		<SimpleData name="station">Bounds Green</SimpleData>
+		<SimpleData name="pm25">109</SimpleData>
+		<SimpleData name="longitude">-0.124218138791558</SimpleData>
+		<SimpleData name="latitude">51.6070863396426</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.124218138791558,51.6070863396426</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Piccadilly</SimpleData>
+		<SimpleData name="station">Caledonian Road</SimpleData>
+		<SimpleData name="pm25">119</SimpleData>
+		<SimpleData name="longitude">-0.118309786724486</SimpleData>
+		<SimpleData name="latitude">51.5484239879656</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.118309786724486,51.5484239879656</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Piccadilly</SimpleData>
+		<SimpleData name="station">Cockfosters</SimpleData>
+		<SimpleData name="pm25">44</SimpleData>
+		<SimpleData name="longitude">-0.149612422080672</SimpleData>
+		<SimpleData name="latitude">51.6516867345507</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.149612422080672,51.6516867345507</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Piccadilly</SimpleData>
+		<SimpleData name="station">Covent Garden</SimpleData>
+		<SimpleData name="pm25">132</SimpleData>
+		<SimpleData name="longitude">-0.124154958766684</SimpleData>
+		<SimpleData name="latitude">51.5129072865501</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.124154958766684,51.5129072865501</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Piccadilly</SimpleData>
+		<SimpleData name="station">Earl's Court</SimpleData>
+		<SimpleData name="pm25">105</SimpleData>
+		<SimpleData name="longitude">-0.193547083566538</SimpleData>
+		<SimpleData name="latitude">51.4918031725385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.193547083566538,51.4918031725385</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Piccadilly</SimpleData>
+		<SimpleData name="station">Finsbury Park</SimpleData>
+		<SimpleData name="pm25">161</SimpleData>
+		<SimpleData name="longitude">-0.106511568608855</SimpleData>
+		<SimpleData name="latitude">51.5644026557901</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.106511568608855,51.5644026557901</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Piccadilly</SimpleData>
+		<SimpleData name="station">Gloucester Road</SimpleData>
+		<SimpleData name="pm25">147</SimpleData>
+		<SimpleData name="longitude">-0.182992073518021</SimpleData>
+		<SimpleData name="latitude">51.4942389349944</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.182992073518021,51.4942389349944</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Piccadilly</SimpleData>
+		<SimpleData name="station">Green Park</SimpleData>
+		<SimpleData name="pm25">144</SimpleData>
+		<SimpleData name="longitude">-0.14292070761651</SimpleData>
+		<SimpleData name="latitude">51.506848212113</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.14292070761651,51.506848212113</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Piccadilly</SimpleData>
+		<SimpleData name="station">Hammersmith</SimpleData>
+		<SimpleData name="pm25">54</SimpleData>
+		<SimpleData name="longitude">-0.222399662053271</SimpleData>
+		<SimpleData name="latitude">51.4925677962556</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.222399662053271,51.4925677962556</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Piccadilly</SimpleData>
+		<SimpleData name="station">Hatton Cross</SimpleData>
+		<SimpleData name="pm25">44</SimpleData>
+		<SimpleData name="longitude">-0.423411811341488</SimpleData>
+		<SimpleData name="latitude">51.4666131033507</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.423411811341488,51.4666131033507</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Piccadilly</SimpleData>
+		<SimpleData name="station">Heathrow Terminal 4</SimpleData>
+		<SimpleData name="pm25">47</SimpleData>
+		<SimpleData name="longitude">-0.446058285582061</SimpleData>
+		<SimpleData name="latitude">51.4585526060395</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.446058285582061,51.4585526060395</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Piccadilly</SimpleData>
+		<SimpleData name="station">Heathrow Terminals 1, 2, 3</SimpleData>
+		<SimpleData name="pm25">50</SimpleData>
+		<SimpleData name="longitude">-0.452438430101766</SimpleData>
+		<SimpleData name="latitude">51.4712171442356</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.452438430101766,51.4712171442356</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Piccadilly</SimpleData>
+		<SimpleData name="station">Holborn</SimpleData>
+		<SimpleData name="pm25">128</SimpleData>
+		<SimpleData name="longitude">-0.120005211266556</SimpleData>
+		<SimpleData name="latitude">51.5174360252702</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.120005211266556,51.5174360252702</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Piccadilly</SimpleData>
+		<SimpleData name="station">Holloway Road</SimpleData>
+		<SimpleData name="pm25">163</SimpleData>
+		<SimpleData name="longitude">-0.112923884267074</SimpleData>
+		<SimpleData name="latitude">51.5527527919488</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.112923884267074,51.5527527919488</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Piccadilly</SimpleData>
+		<SimpleData name="station">Hounslow Central</SimpleData>
+		<SimpleData name="pm25">48</SimpleData>
+		<SimpleData name="longitude">-0.366917192974204</SimpleData>
+		<SimpleData name="latitude">51.4710824152007</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.366917192974204,51.4710824152007</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Piccadilly</SimpleData>
+		<SimpleData name="station">Hounslow East</SimpleData>
+		<SimpleData name="pm25">47</SimpleData>
+		<SimpleData name="longitude">-0.356691356173255</SimpleData>
+		<SimpleData name="latitude">51.4731696515944</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.356691356173255,51.4731696515944</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Piccadilly</SimpleData>
+		<SimpleData name="station">Hounslow West</SimpleData>
+		<SimpleData name="pm25">44</SimpleData>
+		<SimpleData name="longitude">-0.385738941643743</SimpleData>
+		<SimpleData name="latitude">51.4730335874082</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.385738941643743,51.4730335874082</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Piccadilly</SimpleData>
+		<SimpleData name="station">Hyde Park Corner</SimpleData>
+		<SimpleData name="pm25">148</SimpleData>
+		<SimpleData name="longitude">-0.152755197099349</SimpleData>
+		<SimpleData name="latitude">51.5027590591033</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.152755197099349,51.5027590591033</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Piccadilly</SimpleData>
+		<SimpleData name="station">King's Cross St. Pancras</SimpleData>
+		<SimpleData name="pm25">113</SimpleData>
+		<SimpleData name="longitude">-0.12385439526953</SimpleData>
+		<SimpleData name="latitude">51.5303929190998</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.12385439526953,51.5303929190998</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Piccadilly</SimpleData>
+		<SimpleData name="station">Knightsbridge</SimpleData>
+		<SimpleData name="pm25">137</SimpleData>
+		<SimpleData name="longitude">-0.160512531759267</SimpleData>
+		<SimpleData name="latitude">51.5015500970268</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.160512531759267,51.5015500970268</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Piccadilly</SimpleData>
+		<SimpleData name="station">Leicester Square</SimpleData>
+		<SimpleData name="pm25">148</SimpleData>
+		<SimpleData name="longitude">-0.128230691068376</SimpleData>
+		<SimpleData name="latitude">51.5112188594259</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.128230691068376,51.5112188594259</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Piccadilly</SimpleData>
+		<SimpleData name="station">Manor House</SimpleData>
+		<SimpleData name="pm25">199</SimpleData>
+		<SimpleData name="longitude">-0.0957134409300259</SimpleData>
+		<SimpleData name="latitude">51.570756448879</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.095713440930026,51.570756448879</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Piccadilly</SimpleData>
+		<SimpleData name="station">Northfields</SimpleData>
+		<SimpleData name="pm25">48</SimpleData>
+		<SimpleData name="longitude">-0.314158846805901</SimpleData>
+		<SimpleData name="latitude">51.4992731734314</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.314158846805901,51.4992731734314</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Piccadilly</SimpleData>
+		<SimpleData name="station">Oakwood</SimpleData>
+		<SimpleData name="pm25">46</SimpleData>
+		<SimpleData name="longitude">-0.131841309901326</SimpleData>
+		<SimpleData name="latitude">51.6475836070566</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.131841309901326,51.6475836070566</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Piccadilly</SimpleData>
+		<SimpleData name="station">Osterley</SimpleData>
+		<SimpleData name="pm25">44</SimpleData>
+		<SimpleData name="longitude">-0.351991301442545</SimpleData>
+		<SimpleData name="latitude">51.4809270171043</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.351991301442545,51.4809270171043</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Piccadilly</SimpleData>
+		<SimpleData name="station">Piccadilly Circus</SimpleData>
+		<SimpleData name="pm25">176</SimpleData>
+		<SimpleData name="longitude">-0.134000809859946</SimpleData>
+		<SimpleData name="latitude">51.5100248728504</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.134000809859946,51.5100248728504</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Piccadilly</SimpleData>
+		<SimpleData name="station">Russell Square</SimpleData>
+		<SimpleData name="pm25">103</SimpleData>
+		<SimpleData name="longitude">-0.124306144845132</SimpleData>
+		<SimpleData name="latitude">51.5229093853494</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.124306144845132,51.5229093853494</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Piccadilly</SimpleData>
+		<SimpleData name="station">South Ealing</SimpleData>
+		<SimpleData name="pm25">46</SimpleData>
+		<SimpleData name="longitude">-0.307021763065057</SimpleData>
+		<SimpleData name="latitude">51.5013644993235</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.307021763065057,51.5013644993235</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Piccadilly</SimpleData>
+		<SimpleData name="station">South Kensington</SimpleData>
+		<SimpleData name="pm25">178</SimpleData>
+		<SimpleData name="longitude">-0.173925894121211</SimpleData>
+		<SimpleData name="latitude">51.4939991962878</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.173925894121211,51.4939991962878</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Piccadilly</SimpleData>
+		<SimpleData name="station">Southgate</SimpleData>
+		<SimpleData name="pm25">49</SimpleData>
+		<SimpleData name="longitude">-0.127757825906118</SimpleData>
+		<SimpleData name="latitude">51.632321500959</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.127757825906118,51.632321500959</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Piccadilly</SimpleData>
+		<SimpleData name="station">Turnham Green</SimpleData>
+		<SimpleData name="pm25">50</SimpleData>
+		<SimpleData name="longitude">-0.25452731041433</SimpleData>
+		<SimpleData name="latitude">51.4951096367461</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.25452731041433,51.4951096367461</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Piccadilly</SimpleData>
+		<SimpleData name="station">Turnpike Lane</SimpleData>
+		<SimpleData name="pm25">153</SimpleData>
+		<SimpleData name="longitude">-0.102793234321325</SimpleData>
+		<SimpleData name="latitude">51.5902948385447</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.102793234321325,51.5902948385447</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Piccadilly</SimpleData>
+		<SimpleData name="station">Wood Green</SimpleData>
+		<SimpleData name="pm25">133</SimpleData>
+		<SimpleData name="longitude">-0.109626845867099</SimpleData>
+		<SimpleData name="latitude">51.5974731595812</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.109626845867099,51.5974731595812</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Northern</SimpleData>
+		<SimpleData name="station">Angel</SimpleData>
+		<SimpleData name="pm25">193</SimpleData>
+		<SimpleData name="longitude">-0.105788532350302</SimpleData>
+		<SimpleData name="latitude">51.5324945942093</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.105788532350302,51.5324945942093</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Northern</SimpleData>
+		<SimpleData name="station">Archway</SimpleData>
+		<SimpleData name="pm25">240</SimpleData>
+		<SimpleData name="longitude">-0.13510973005784</SimpleData>
+		<SimpleData name="latitude">51.5654271883667</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.13510973005784,51.5654271883667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Northern</SimpleData>
+		<SimpleData name="station">Balham</SimpleData>
+		<SimpleData name="pm25">215</SimpleData>
+		<SimpleData name="longitude">-0.153211812735065</SimpleData>
+		<SimpleData name="latitude">51.4433255098474</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.153211812735065,51.4433255098474</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Northern</SimpleData>
+		<SimpleData name="station">Bank</SimpleData>
+		<SimpleData name="pm25">220</SimpleData>
+		<SimpleData name="longitude">-0.0889155896595293</SimpleData>
+		<SimpleData name="latitude">51.5133005871853</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.088915589659529,51.5133005871853</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Northern</SimpleData>
+		<SimpleData name="station">Belsize Park</SimpleData>
+		<SimpleData name="pm25">283</SimpleData>
+		<SimpleData name="longitude">-0.164238962111359</SimpleData>
+		<SimpleData name="latitude">51.550428561586</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.164238962111359,51.550428561586</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Northern</SimpleData>
+		<SimpleData name="station">Borough</SimpleData>
+		<SimpleData name="pm25">288</SimpleData>
+		<SimpleData name="longitude">-0.0937013980659852</SimpleData>
+		<SimpleData name="latitude">51.5011935395731</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.093701398065985,51.5011935395731</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Northern</SimpleData>
+		<SimpleData name="station">Brent Cross</SimpleData>
+		<SimpleData name="pm25">29</SimpleData>
+		<SimpleData name="longitude">-0.213457894828736</SimpleData>
+		<SimpleData name="latitude">51.5767985662539</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.213457894828736,51.5767985662539</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Northern</SimpleData>
+		<SimpleData name="station">Burnt Oak</SimpleData>
+		<SimpleData name="pm25">6</SimpleData>
+		<SimpleData name="longitude">-0.264195679711</SimpleData>
+		<SimpleData name="latitude">51.6026843769673</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.264195679711,51.6026843769673</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Northern</SimpleData>
+		<SimpleData name="station">Camden Town</SimpleData>
+		<SimpleData name="pm25">291</SimpleData>
+		<SimpleData name="longitude">-0.142720419513907</SimpleData>
+		<SimpleData name="latitude">51.5394068482272</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.142720419513907,51.5394068482272</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Northern</SimpleData>
+		<SimpleData name="station">Chalk Farm</SimpleData>
+		<SimpleData name="pm25">314</SimpleData>
+		<SimpleData name="longitude">-0.153721202916802</SimpleData>
+		<SimpleData name="latitude">51.5440857117156</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.153721202916802,51.5440857117156</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Northern</SimpleData>
+		<SimpleData name="station">Charing Cross</SimpleData>
+		<SimpleData name="pm25">303</SimpleData>
+		<SimpleData name="longitude">-0.124750139920854</SimpleData>
+		<SimpleData name="latitude">51.5085913980902</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.124750139920854,51.5085913980902</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Northern</SimpleData>
+		<SimpleData name="station">Clapham Common</SimpleData>
+		<SimpleData name="pm25">231</SimpleData>
+		<SimpleData name="longitude">-0.138317826791002</SimpleData>
+		<SimpleData name="latitude">51.4617315598849</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.138317826791002,51.4617315598849</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Northern</SimpleData>
+		<SimpleData name="station">Clapham North</SimpleData>
+		<SimpleData name="pm25">307</SimpleData>
+		<SimpleData name="longitude">-0.129524173398419</SimpleData>
+		<SimpleData name="latitude">51.464846909054</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.129524173398419,51.464846909054</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Northern</SimpleData>
+		<SimpleData name="station">Clapham South</SimpleData>
+		<SimpleData name="pm25">203</SimpleData>
+		<SimpleData name="longitude">-0.147986977595426</SimpleData>
+		<SimpleData name="latitude">51.4526043627765</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.147986977595426,51.4526043627765</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Northern</SimpleData>
+		<SimpleData name="station">Colindale</SimpleData>
+		<SimpleData name="pm25">20</SimpleData>
+		<SimpleData name="longitude">-0.250140826813004</SimpleData>
+		<SimpleData name="latitude">51.5952908759048</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.250140826813004,51.5952908759048</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Northern</SimpleData>
+		<SimpleData name="station">Colliers Wood</SimpleData>
+		<SimpleData name="pm25">206</SimpleData>
+		<SimpleData name="longitude">-0.177701339365584</SimpleData>
+		<SimpleData name="latitude">51.4180709288918</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.177701339365584,51.4180709288918</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Northern</SimpleData>
+		<SimpleData name="station">East Finchley</SimpleData>
+		<SimpleData name="pm25">59</SimpleData>
+		<SimpleData name="longitude">-0.16473199284609</SimpleData>
+		<SimpleData name="latitude">51.5872691532958</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.16473199284609,51.5872691532958</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Northern</SimpleData>
+		<SimpleData name="station">Edgware</SimpleData>
+		<SimpleData name="pm25">5</SimpleData>
+		<SimpleData name="longitude">-0.274972133018371</SimpleData>
+		<SimpleData name="latitude">51.6136249185011</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.274972133018371,51.6136249185011</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Northern</SimpleData>
+		<SimpleData name="station">Elephant &amp; Castle</SimpleData>
+		<SimpleData name="pm25">318</SimpleData>
+		<SimpleData name="longitude">-0.100727305415241</SimpleData>
+		<SimpleData name="latitude">51.4957771029042</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.100727305415241,51.4957771029042</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Northern</SimpleData>
+		<SimpleData name="station">Embankment</SimpleData>
+		<SimpleData name="pm25">316</SimpleData>
+		<SimpleData name="longitude">-0.122355890226947</SimpleData>
+		<SimpleData name="latitude">51.507240181685</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.122355890226947,51.507240181685</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Northern</SimpleData>
+		<SimpleData name="station">Euston</SimpleData>
+		<SimpleData name="pm25">280</SimpleData>
+		<SimpleData name="longitude">-0.133285003609594</SimpleData>
+		<SimpleData name="latitude">51.5285920006576</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.133285003609594,51.5285920006576</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Northern</SimpleData>
+		<SimpleData name="station">Finchley Central</SimpleData>
+		<SimpleData name="pm25">25</SimpleData>
+		<SimpleData name="longitude">-0.192452586621873</SimpleData>
+		<SimpleData name="latitude">51.6009720508991</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.192452586621873,51.6009720508991</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Northern</SimpleData>
+		<SimpleData name="station">Golders Green</SimpleData>
+		<SimpleData name="pm25">170</SimpleData>
+		<SimpleData name="longitude">-0.193997380037755</SimpleData>
+		<SimpleData name="latitude">51.5722203285718</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.193997380037755,51.5722203285718</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Northern</SimpleData>
+		<SimpleData name="station">Goodge Street</SimpleData>
+		<SimpleData name="pm25">257</SimpleData>
+		<SimpleData name="longitude">-0.134656944933485</SimpleData>
+		<SimpleData name="latitude">51.5204216597774</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.134656944933485,51.5204216597774</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Northern</SimpleData>
+		<SimpleData name="station">Hampstead</SimpleData>
+		<SimpleData name="pm25">229</SimpleData>
+		<SimpleData name="longitude">-0.178225063069178</SimpleData>
+		<SimpleData name="latitude">51.5566894617867</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.178225063069178,51.5566894617867</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Northern</SimpleData>
+		<SimpleData name="station">Hendon Central</SimpleData>
+		<SimpleData name="pm25">29</SimpleData>
+		<SimpleData name="longitude">-0.226497030317211</SimpleData>
+		<SimpleData name="latitude">51.5832909652258</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.226497030317211,51.5832909652258</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Northern</SimpleData>
+		<SimpleData name="station">High Barnet</SimpleData>
+		<SimpleData name="pm25">11</SimpleData>
+		<SimpleData name="longitude">-0.194757923285552</SimpleData>
+		<SimpleData name="latitude">51.6506000025443</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.194757923285552,51.6506000025443</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Northern</SimpleData>
+		<SimpleData name="station">Highgate</SimpleData>
+		<SimpleData name="pm25">131</SimpleData>
+		<SimpleData name="longitude">-0.14663380277329</SimpleData>
+		<SimpleData name="latitude">51.5775966712063</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.14663380277329,51.5775966712063</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Northern</SimpleData>
+		<SimpleData name="station">Kennington</SimpleData>
+		<SimpleData name="pm25">361</SimpleData>
+		<SimpleData name="longitude">-0.10548199301905</SimpleData>
+		<SimpleData name="latitude">51.4881203966608</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.10548199301905,51.4881203966608</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Northern</SimpleData>
+		<SimpleData name="station">Kentish Town</SimpleData>
+		<SimpleData name="pm25">271</SimpleData>
+		<SimpleData name="longitude">-0.140459169621519</SimpleData>
+		<SimpleData name="latitude">51.5503058619045</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.140459169621519,51.5503058619045</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Northern</SimpleData>
+		<SimpleData name="station">King's Cross St. Pancras</SimpleData>
+		<SimpleData name="pm25">251</SimpleData>
+		<SimpleData name="longitude">-0.12385439526953</SimpleData>
+		<SimpleData name="latitude">51.5303929190998</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.12385439526953,51.5303929190998</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Northern</SimpleData>
+		<SimpleData name="station">Leicester Square</SimpleData>
+		<SimpleData name="pm25">287</SimpleData>
+		<SimpleData name="longitude">-0.128230691068376</SimpleData>
+		<SimpleData name="latitude">51.5112188594259</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.128230691068376,51.5112188594259</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Northern</SimpleData>
+		<SimpleData name="station">London Bridge</SimpleData>
+		<SimpleData name="pm25">293</SimpleData>
+		<SimpleData name="longitude">-0.0869220955940429</SimpleData>
+		<SimpleData name="latitude">51.505498503653</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.086922095594043,51.505498503653</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Northern</SimpleData>
+		<SimpleData name="station">Moorgate</SimpleData>
+		<SimpleData name="pm25">197</SimpleData>
+		<SimpleData name="longitude">-0.0890062924197783</SimpleData>
+		<SimpleData name="latitude">51.5183648779609</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.089006292419778,51.5183648779609</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Northern</SimpleData>
+		<SimpleData name="station">Morden</SimpleData>
+		<SimpleData name="pm25">68</SimpleData>
+		<SimpleData name="longitude">-0.194788490440617</SimpleData>
+		<SimpleData name="latitude">51.4023375492024</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.194788490440617,51.4023375492024</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Northern</SimpleData>
+		<SimpleData name="station">Mornington Crescent</SimpleData>
+		<SimpleData name="pm25">265</SimpleData>
+		<SimpleData name="longitude">-0.138837036281356</SimpleData>
+		<SimpleData name="latitude">51.5342105994277</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.138837036281356,51.5342105994277</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Northern</SimpleData>
+		<SimpleData name="station">Old Street</SimpleData>
+		<SimpleData name="pm25">186</SimpleData>
+		<SimpleData name="longitude">-0.0875501730289688</SimpleData>
+		<SimpleData name="latitude">51.5255981374316</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.087550173028969,51.5255981374316</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Northern</SimpleData>
+		<SimpleData name="station">Oval</SimpleData>
+		<SimpleData name="pm25">359</SimpleData>
+		<SimpleData name="longitude">-0.11288914971672</SimpleData>
+		<SimpleData name="latitude">51.4821068964668</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.11288914971672,51.4821068964668</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Northern</SimpleData>
+		<SimpleData name="station">South Wimbledon</SimpleData>
+		<SimpleData name="pm25">177</SimpleData>
+		<SimpleData name="longitude">-0.191977735082396</SimpleData>
+		<SimpleData name="latitude">51.4152795220347</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.191977735082396,51.4152795220347</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Northern</SimpleData>
+		<SimpleData name="station">Stockwell</SimpleData>
+		<SimpleData name="pm25">293</SimpleData>
+		<SimpleData name="longitude">-0.122903492778503</SimpleData>
+		<SimpleData name="latitude">51.472168973557</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.122903492778503,51.472168973557</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Northern</SimpleData>
+		<SimpleData name="station">Tooting Bec</SimpleData>
+		<SimpleData name="pm25">234</SimpleData>
+		<SimpleData name="longitude">-0.159703741135139</SimpleData>
+		<SimpleData name="latitude">51.4357569309249</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.159703741135139,51.4357569309249</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Northern</SimpleData>
+		<SimpleData name="station">Tooting Broadway</SimpleData>
+		<SimpleData name="pm25">284</SimpleData>
+		<SimpleData name="longitude">-0.167978669413549</SimpleData>
+		<SimpleData name="latitude">51.4274335225624</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.167978669413549,51.4274335225624</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Northern</SimpleData>
+		<SimpleData name="station">Tottenham Court Road</SimpleData>
+		<SimpleData name="pm25">239</SimpleData>
+		<SimpleData name="longitude">-0.130865576538891</SimpleData>
+		<SimpleData name="latitude">51.5162067643653</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.130865576538891,51.5162067643653</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Northern</SimpleData>
+		<SimpleData name="station">Totteridge &amp; Whetstone</SimpleData>
+		<SimpleData name="pm25">15</SimpleData>
+		<SimpleData name="longitude">-0.179254619782899</SimpleData>
+		<SimpleData name="latitude">51.6302089225771</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.179254619782899,51.6302089225771</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Northern</SimpleData>
+		<SimpleData name="station">Tufnell Park</SimpleData>
+		<SimpleData name="pm25">252</SimpleData>
+		<SimpleData name="longitude">-0.137920410550969</SimpleData>
+		<SimpleData name="latitude">51.5566682233373</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.137920410550969,51.5566682233373</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Northern</SimpleData>
+		<SimpleData name="station">Warren Street</SimpleData>
+		<SimpleData name="pm25">251</SimpleData>
+		<SimpleData name="longitude">-0.138266856304429</SimpleData>
+		<SimpleData name="latitude">51.5245076509584</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.138266856304429,51.5245076509584</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Northern</SimpleData>
+		<SimpleData name="station">Waterloo</SimpleData>
+		<SimpleData name="pm25">299</SimpleData>
+		<SimpleData name="longitude">-0.11406591406559</SimpleData>
+		<SimpleData name="latitude">51.5035011566721</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.11406591406559,51.5035011566721</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Northern</SimpleData>
+		<SimpleData name="station">West Finchley</SimpleData>
+		<SimpleData name="pm25">17</SimpleData>
+		<SimpleData name="longitude">-0.188474801163776</SimpleData>
+		<SimpleData name="latitude">51.6094894046769</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.188474801163776,51.6094894046769</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Northern</SimpleData>
+		<SimpleData name="station">Woodside Park</SimpleData>
+		<SimpleData name="pm25">15</SimpleData>
+		<SimpleData name="longitude">-0.185427653189399</SimpleData>
+		<SimpleData name="latitude">51.6178141866319</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.185427653189399,51.6178141866319</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Circle</SimpleData>
+		<SimpleData name="station">Aldgate</SimpleData>
+		<SimpleData name="pm25">40</SimpleData>
+		<SimpleData name="longitude">-0.0756155393583119</SimpleData>
+		<SimpleData name="latitude">51.5142701385097</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.075615539358312,51.5142701385097</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Circle</SimpleData>
+		<SimpleData name="station">Baker Street</SimpleData>
+		<SimpleData name="pm25">50</SimpleData>
+		<SimpleData name="longitude">-0.156907095550195</SimpleData>
+		<SimpleData name="latitude">51.5230574801318</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.156907095550195,51.5230574801318</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Circle</SimpleData>
+		<SimpleData name="station">Barbican</SimpleData>
+		<SimpleData name="pm25">18</SimpleData>
+		<SimpleData name="longitude">-0.0977101689484825</SimpleData>
+		<SimpleData name="latitude">51.5201430089585</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.097710168948483,51.5201430089585</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Circle</SimpleData>
+		<SimpleData name="station">Bayswater</SimpleData>
+		<SimpleData name="pm25">3</SimpleData>
+		<SimpleData name="longitude">-0.188040963571428</SimpleData>
+		<SimpleData name="latitude">51.5122300468288</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.188040963571428,51.5122300468288</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Circle</SimpleData>
+		<SimpleData name="station">Blackfriars</SimpleData>
+		<SimpleData name="pm25">34</SimpleData>
+		<SimpleData name="longitude">-0.103604742817189</SimpleData>
+		<SimpleData name="latitude">51.5114887137154</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.103604742817189,51.5114887137154</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Circle</SimpleData>
+		<SimpleData name="station">Cannon Street</SimpleData>
+		<SimpleData name="pm25">57</SimpleData>
+		<SimpleData name="longitude">-0.0906943496103875</SimpleData>
+		<SimpleData name="latitude">51.5114321259199</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.090694349610387,51.5114321259199</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Circle</SimpleData>
+		<SimpleData name="station">Edgware Road Circle</SimpleData>
+		<SimpleData name="pm25">10</SimpleData>
+		<SimpleData name="longitude">-0.167671498643532</SimpleData>
+		<SimpleData name="latitude">51.5199168978625</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.167671498643532,51.5199168978625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Circle</SimpleData>
+		<SimpleData name="station">Embankment</SimpleData>
+		<SimpleData name="pm25">61</SimpleData>
+		<SimpleData name="longitude">-0.122355890226947</SimpleData>
+		<SimpleData name="latitude">51.507240181685</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.122355890226947,51.507240181685</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Circle</SimpleData>
+		<SimpleData name="station">Euston Square</SimpleData>
+		<SimpleData name="pm25">42</SimpleData>
+		<SimpleData name="longitude">-0.135831007651795</SimpleData>
+		<SimpleData name="latitude">51.5255570566441</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.135831007651795,51.5255570566441</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Circle</SimpleData>
+		<SimpleData name="station">Farringdon</SimpleData>
+		<SimpleData name="pm25">45</SimpleData>
+		<SimpleData name="longitude">-0.105063463561319</SimpleData>
+		<SimpleData name="latitude">51.5204418869053</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.105063463561319,51.5204418869053</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Circle</SimpleData>
+		<SimpleData name="station">Gloucester Road</SimpleData>
+		<SimpleData name="pm25">5</SimpleData>
+		<SimpleData name="longitude">-0.182992073518021</SimpleData>
+		<SimpleData name="latitude">51.4942389349944</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.182992073518021,51.4942389349944</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Circle</SimpleData>
+		<SimpleData name="station">Goldhawk Road</SimpleData>
+		<SimpleData name="pm25">2</SimpleData>
+		<SimpleData name="longitude">-0.226746142348371</SimpleData>
+		<SimpleData name="latitude">51.5019497586583</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.226746142348371,51.5019497586583</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Circle</SimpleData>
+		<SimpleData name="station">Great Portland Street</SimpleData>
+		<SimpleData name="pm25">91</SimpleData>
+		<SimpleData name="longitude">-0.143949941020566</SimpleData>
+		<SimpleData name="latitude">51.5237164493735</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.143949941020566,51.5237164493735</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Circle</SimpleData>
+		<SimpleData name="station">Hammersmith</SimpleData>
+		<SimpleData name="pm25">3</SimpleData>
+		<SimpleData name="longitude">-0.222399662053271</SimpleData>
+		<SimpleData name="latitude">51.4925677962556</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.222399662053271,51.4925677962556</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Circle</SimpleData>
+		<SimpleData name="station">High Street Kensington</SimpleData>
+		<SimpleData name="pm25">4</SimpleData>
+		<SimpleData name="longitude">-0.192504848328664</SimpleData>
+		<SimpleData name="latitude">51.5006716750452</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.192504848328664,51.5006716750452</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Circle</SimpleData>
+		<SimpleData name="station">King's Cross St. Pancras</SimpleData>
+		<SimpleData name="pm25">60</SimpleData>
+		<SimpleData name="longitude">-0.12385439526953</SimpleData>
+		<SimpleData name="latitude">51.5303929190998</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.12385439526953,51.5303929190998</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Circle</SimpleData>
+		<SimpleData name="station">Ladbroke Grove</SimpleData>
+		<SimpleData name="pm25">2</SimpleData>
+		<SimpleData name="longitude">-0.210862187601604</SimpleData>
+		<SimpleData name="latitude">51.5171845005915</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.210862187601604,51.5171845005915</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Circle</SimpleData>
+		<SimpleData name="station">Latimer Road</SimpleData>
+		<SimpleData name="pm25">2</SimpleData>
+		<SimpleData name="longitude">-0.217778623910018</SimpleData>
+		<SimpleData name="latitude">51.5135399563404</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.217778623910018,51.5135399563404</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Circle</SimpleData>
+		<SimpleData name="station">Liverpool Street</SimpleData>
+		<SimpleData name="pm25">17</SimpleData>
+		<SimpleData name="longitude">-0.0829663422507892</SimpleData>
+		<SimpleData name="latitude">51.5173490726454</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.082966342250789,51.5173490726454</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Circle</SimpleData>
+		<SimpleData name="station">Mansion House</SimpleData>
+		<SimpleData name="pm25">25</SimpleData>
+		<SimpleData name="longitude">-0.0941862553677917</SimpleData>
+		<SimpleData name="latitude">51.5120194809428</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.094186255367792,51.5120194809428</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Circle</SimpleData>
+		<SimpleData name="station">Monument</SimpleData>
+		<SimpleData name="pm25">46</SimpleData>
+		<SimpleData name="longitude">-0.0889425138013583</SimpleData>
+		<SimpleData name="latitude">51.5133459887229</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.088942513801358,51.5133459887229</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Circle</SimpleData>
+		<SimpleData name="station">Moorgate</SimpleData>
+		<SimpleData name="pm25">8</SimpleData>
+		<SimpleData name="longitude">-0.0890062924197783</SimpleData>
+		<SimpleData name="latitude">51.5183648779609</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.089006292419778,51.5183648779609</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Circle</SimpleData>
+		<SimpleData name="station">Notting Hill Gate</SimpleData>
+		<SimpleData name="pm25">3</SimpleData>
+		<SimpleData name="longitude">-0.196539274263939</SimpleData>
+		<SimpleData name="latitude">51.5090607970822</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.196539274263939,51.5090607970822</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Circle</SimpleData>
+		<SimpleData name="station">Paddington</SimpleData>
+		<SimpleData name="pm25">6</SimpleData>
+		<SimpleData name="longitude">-0.175394293305568</SimpleData>
+		<SimpleData name="latitude">51.515307249534</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.175394293305568,51.515307249534</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Circle</SimpleData>
+		<SimpleData name="station">Royal Oak</SimpleData>
+		<SimpleData name="pm25">4</SimpleData>
+		<SimpleData name="longitude">-0.188233000226284</SimpleData>
+		<SimpleData name="latitude">51.5190133201388</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.188233000226284,51.5190133201388</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Circle</SimpleData>
+		<SimpleData name="station">Shepherd's Bush Market</SimpleData>
+		<SimpleData name="pm25">2</SimpleData>
+		<SimpleData name="longitude">-0.226303470689641</SimpleData>
+		<SimpleData name="latitude">51.5055580192115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.226303470689641,51.5055580192115</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Circle</SimpleData>
+		<SimpleData name="station">Sloane Square</SimpleData>
+		<SimpleData name="pm25">33</SimpleData>
+		<SimpleData name="longitude">-0.156491756080546</SimpleData>
+		<SimpleData name="latitude">51.4922876241935</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.156491756080546,51.4922876241935</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Circle</SimpleData>
+		<SimpleData name="station">South Kensington</SimpleData>
+		<SimpleData name="pm25">18</SimpleData>
+		<SimpleData name="longitude">-0.173925894121211</SimpleData>
+		<SimpleData name="latitude">51.4939991962878</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.173925894121211,51.4939991962878</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Circle</SimpleData>
+		<SimpleData name="station">St. James's Park</SimpleData>
+		<SimpleData name="pm25">53</SimpleData>
+		<SimpleData name="longitude">-0.134177732422094</SimpleData>
+		<SimpleData name="latitude">51.4993445670645</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.134177732422094,51.4993445670645</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Circle</SimpleData>
+		<SimpleData name="station">Temple</SimpleData>
+		<SimpleData name="pm25">14</SimpleData>
+		<SimpleData name="longitude">-0.113699915185203</SimpleData>
+		<SimpleData name="latitude">51.5109680760482</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.113699915185203,51.5109680760482</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Circle</SimpleData>
+		<SimpleData name="station">Tower Hill</SimpleData>
+		<SimpleData name="pm25">59</SimpleData>
+		<SimpleData name="longitude">-0.0763547925529849</SimpleData>
+		<SimpleData name="latitude">51.5100647442361</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.076354792552985,51.5100647442361</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Circle</SimpleData>
+		<SimpleData name="station">Victoria</SimpleData>
+		<SimpleData name="pm25">42</SimpleData>
+		<SimpleData name="longitude">-0.143852003214913</SimpleData>
+		<SimpleData name="latitude">51.4963417077255</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.143852003214913,51.4963417077255</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Circle</SimpleData>
+		<SimpleData name="station">Westbourne Park</SimpleData>
+		<SimpleData name="pm25">3</SimpleData>
+		<SimpleData name="longitude">-0.200885345927106</SimpleData>
+		<SimpleData name="latitude">51.5209166272001</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.200885345927106,51.5209166272001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Circle</SimpleData>
+		<SimpleData name="station">Westminster</SimpleData>
+		<SimpleData name="pm25">89</SimpleData>
+		<SimpleData name="longitude">-0.124813404822685</SimpleData>
+		<SimpleData name="latitude">51.5010836418734</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.124813404822685,51.5010836418734</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Circle</SimpleData>
+		<SimpleData name="station">Wood Lane</SimpleData>
+		<SimpleData name="pm25">2</SimpleData>
+		<SimpleData name="longitude">-0.224200029153065</SimpleData>
+		<SimpleData name="latitude">51.5097999952518</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.224200029153065,51.5097999952518</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Jubilee</SimpleData>
+		<SimpleData name="station">Baker Street</SimpleData>
+		<SimpleData name="pm25">174</SimpleData>
+		<SimpleData name="longitude">-0.156907095550195</SimpleData>
+		<SimpleData name="latitude">51.5230574801318</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.156907095550195,51.5230574801318</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Jubilee</SimpleData>
+		<SimpleData name="station">Bermondsey</SimpleData>
+		<SimpleData name="pm25">231</SimpleData>
+		<SimpleData name="longitude">-0.0636534173129055</SimpleData>
+		<SimpleData name="latitude">51.4979495145634</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.063653417312905,51.4979495145634</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Jubilee</SimpleData>
+		<SimpleData name="station">Bond Street</SimpleData>
+		<SimpleData name="pm25">245</SimpleData>
+		<SimpleData name="longitude">-0.149339587317781</SimpleData>
+		<SimpleData name="latitude">51.5138019597401</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.149339587317781,51.5138019597401</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Jubilee</SimpleData>
+		<SimpleData name="station">Canada Water</SimpleData>
+		<SimpleData name="pm25">240</SimpleData>
+		<SimpleData name="longitude">-0.0497096588014363</SimpleData>
+		<SimpleData name="latitude">51.4978893064884</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.049709658801436,51.4978893064884</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Jubilee</SimpleData>
+		<SimpleData name="station">Canary Wharf</SimpleData>
+		<SimpleData name="pm25">187</SimpleData>
+		<SimpleData name="longitude">-0.0194248127094569</SimpleData>
+		<SimpleData name="latitude">51.5035506956234</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.019424812709457,51.5035506956234</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Jubilee</SimpleData>
+		<SimpleData name="station">Canning Town</SimpleData>
+		<SimpleData name="pm25">33</SimpleData>
+		<SimpleData name="longitude">0.00817443720763503</SimpleData>
+		<SimpleData name="latitude">51.5138365875392</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>0.008174437207635,51.5138365875392</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Jubilee</SimpleData>
+		<SimpleData name="station">Canons Park</SimpleData>
+		<SimpleData name="pm25">4</SimpleData>
+		<SimpleData name="longitude">-0.294647358479799</SimpleData>
+		<SimpleData name="latitude">51.6077617209237</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.294647358479799,51.6077617209237</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Jubilee</SimpleData>
+		<SimpleData name="station">Dollis Hill</SimpleData>
+		<SimpleData name="pm25">5</SimpleData>
+		<SimpleData name="longitude">-0.238795675533425</SimpleData>
+		<SimpleData name="latitude">51.5519041333243</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.238795675533425,51.5519041333243</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Jubilee</SimpleData>
+		<SimpleData name="station">Finchley Road</SimpleData>
+		<SimpleData name="pm25">39</SimpleData>
+		<SimpleData name="longitude">-0.180498818533294</SimpleData>
+		<SimpleData name="latitude">51.5470668977089</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.180498818533294,51.5470668977089</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Jubilee</SimpleData>
+		<SimpleData name="station">Green Park</SimpleData>
+		<SimpleData name="pm25">236</SimpleData>
+		<SimpleData name="longitude">-0.14292070761651</SimpleData>
+		<SimpleData name="latitude">51.506848212113</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.14292070761651,51.506848212113</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Jubilee</SimpleData>
+		<SimpleData name="station">Kilburn</SimpleData>
+		<SimpleData name="pm25">7</SimpleData>
+		<SimpleData name="longitude">-0.204635192772142</SimpleData>
+		<SimpleData name="latitude">51.5468812023008</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.204635192772142,51.5468812023008</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Jubilee</SimpleData>
+		<SimpleData name="station">Kingsbury</SimpleData>
+		<SimpleData name="pm25">7</SimpleData>
+		<SimpleData name="longitude">-0.278793902069576</SimpleData>
+		<SimpleData name="latitude">51.5847530004887</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.278793902069576,51.5847530004887</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Jubilee</SimpleData>
+		<SimpleData name="station">London Bridge</SimpleData>
+		<SimpleData name="pm25">243</SimpleData>
+		<SimpleData name="longitude">-0.0869220955940429</SimpleData>
+		<SimpleData name="latitude">51.505498503653</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.086922095594043,51.505498503653</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Jubilee</SimpleData>
+		<SimpleData name="station">Neasden</SimpleData>
+		<SimpleData name="pm25">7</SimpleData>
+		<SimpleData name="longitude">-0.249779806996674</SimpleData>
+		<SimpleData name="latitude">51.5539658783127</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.249779806996674,51.5539658783127</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Jubilee</SimpleData>
+		<SimpleData name="station">North Greenwich</SimpleData>
+		<SimpleData name="pm25">103</SimpleData>
+		<SimpleData name="longitude">0.00361190130663549</SimpleData>
+		<SimpleData name="latitude">51.5001827896737</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>0.003611901306635,51.5001827896737</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Jubilee</SimpleData>
+		<SimpleData name="station">Queensbury</SimpleData>
+		<SimpleData name="pm25">6</SimpleData>
+		<SimpleData name="longitude">-0.285779773372603</SimpleData>
+		<SimpleData name="latitude">51.5943510480259</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.285779773372603,51.5943510480259</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Jubilee</SimpleData>
+		<SimpleData name="station">Southwark</SimpleData>
+		<SimpleData name="pm25">249</SimpleData>
+		<SimpleData name="longitude">-0.105089363816432</SimpleData>
+		<SimpleData name="latitude">51.5038420597855</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.105089363816432,51.5038420597855</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Jubilee</SimpleData>
+		<SimpleData name="station">St. John's Wood</SimpleData>
+		<SimpleData name="pm25">131</SimpleData>
+		<SimpleData name="longitude">-0.174177214632385</SimpleData>
+		<SimpleData name="latitude">51.5345681276845</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.174177214632385,51.5345681276845</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Jubilee</SimpleData>
+		<SimpleData name="station">Stanmore</SimpleData>
+		<SimpleData name="pm25">4</SimpleData>
+		<SimpleData name="longitude">-0.303101298774732</SimpleData>
+		<SimpleData name="latitude">51.6196190347314</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.303101298774732,51.6196190347314</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Jubilee</SimpleData>
+		<SimpleData name="station">Stratford</SimpleData>
+		<SimpleData name="pm25">5</SimpleData>
+		<SimpleData name="longitude">-0.00319174020653238</SimpleData>
+		<SimpleData name="latitude">51.5413053643912</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.003191740206532,51.5413053643912</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Jubilee</SimpleData>
+		<SimpleData name="station">Swiss Cottage</SimpleData>
+		<SimpleData name="pm25">119</SimpleData>
+		<SimpleData name="longitude">-0.174764402914515</SimpleData>
+		<SimpleData name="latitude">51.5433179091445</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.174764402914515,51.5433179091445</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Jubilee</SimpleData>
+		<SimpleData name="station">Waterloo</SimpleData>
+		<SimpleData name="pm25">255</SimpleData>
+		<SimpleData name="longitude">-0.11406591406559</SimpleData>
+		<SimpleData name="latitude">51.5035011566721</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.11406591406559,51.5035011566721</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Jubilee</SimpleData>
+		<SimpleData name="station">Wembley Park</SimpleData>
+		<SimpleData name="pm25">10</SimpleData>
+		<SimpleData name="longitude">-0.279244922709806</SimpleData>
+		<SimpleData name="latitude">51.5632591005855</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.279244922709806,51.5632591005855</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Jubilee</SimpleData>
+		<SimpleData name="station">West Ham</SimpleData>
+		<SimpleData name="pm25">8</SimpleData>
+		<SimpleData name="longitude">0.00504268288418963</SimpleData>
+		<SimpleData name="latitude">51.5281795214982</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>0.00504268288419,51.5281795214982</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Jubilee</SimpleData>
+		<SimpleData name="station">West Hampstead</SimpleData>
+		<SimpleData name="pm25">13</SimpleData>
+		<SimpleData name="longitude">-0.190753295437581</SimpleData>
+		<SimpleData name="latitude">51.546703920841</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.190753295437581,51.546703920841</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Jubilee</SimpleData>
+		<SimpleData name="station">Westminster</SimpleData>
+		<SimpleData name="pm25">242</SimpleData>
+		<SimpleData name="longitude">-0.124813404822685</SimpleData>
+		<SimpleData name="latitude">51.5010836418734</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.124813404822685,51.5010836418734</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Jubilee</SimpleData>
+		<SimpleData name="station">Willesden Green</SimpleData>
+		<SimpleData name="pm25">5</SimpleData>
+		<SimpleData name="longitude">-0.222410053029815</SimpleData>
+		<SimpleData name="latitude">51.5493100236787</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.222410053029815,51.5493100236787</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">District</SimpleData>
+		<SimpleData name="station">Acton Town</SimpleData>
+		<SimpleData name="pm25">2</SimpleData>
+		<SimpleData name="longitude">-0.280257274070714</SimpleData>
+		<SimpleData name="latitude">51.5027466033931</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.280257274070714,51.5027466033931</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">District</SimpleData>
+		<SimpleData name="station">Aldgate East</SimpleData>
+		<SimpleData name="pm25">64</SimpleData>
+		<SimpleData name="longitude">-0.072288898066186</SimpleData>
+		<SimpleData name="latitude">51.515231670986</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.072288898066186,51.515231670986</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">District</SimpleData>
+		<SimpleData name="station">Barking</SimpleData>
+		<SimpleData name="pm25">3</SimpleData>
+		<SimpleData name="longitude">0.0808571498882476</SimpleData>
+		<SimpleData name="latitude">51.5394488616848</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>0.080857149888248,51.5394488616848</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">District</SimpleData>
+		<SimpleData name="station">Barons Court</SimpleData>
+		<SimpleData name="pm25">8</SimpleData>
+		<SimpleData name="longitude">-0.213605705235308</SimpleData>
+		<SimpleData name="latitude">51.4901590780153</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.213605705235308,51.4901590780153</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">District</SimpleData>
+		<SimpleData name="station">Becontree</SimpleData>
+		<SimpleData name="pm25">6</SimpleData>
+		<SimpleData name="longitude">0.127403295075779</SimpleData>
+		<SimpleData name="latitude">51.5402865749019</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>0.127403295075779,51.5402865749019</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">District</SimpleData>
+		<SimpleData name="station">Blackfriars</SimpleData>
+		<SimpleData name="pm25">75</SimpleData>
+		<SimpleData name="longitude">-0.103604742817189</SimpleData>
+		<SimpleData name="latitude">51.5114887137154</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.103604742817189,51.5114887137154</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">District</SimpleData>
+		<SimpleData name="station">Bow Road</SimpleData>
+		<SimpleData name="pm25">80</SimpleData>
+		<SimpleData name="longitude">-0.0248170692999619</SimpleData>
+		<SimpleData name="latitude">51.5267976888314</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.024817069299962,51.5267976888314</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">District</SimpleData>
+		<SimpleData name="station">Bromley-by-Bow</SimpleData>
+		<SimpleData name="pm25">56</SimpleData>
+		<SimpleData name="longitude">-0.0116566951412326</SimpleData>
+		<SimpleData name="latitude">51.5247678155014</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.011656695141233,51.5247678155014</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">District</SimpleData>
+		<SimpleData name="station">Cannon Street</SimpleData>
+		<SimpleData name="pm25">102</SimpleData>
+		<SimpleData name="longitude">-0.0906943496103875</SimpleData>
+		<SimpleData name="latitude">51.5114321259199</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.090694349610387,51.5114321259199</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">District</SimpleData>
+		<SimpleData name="station">Chiswick Park</SimpleData>
+		<SimpleData name="pm25">2</SimpleData>
+		<SimpleData name="longitude">-0.267754041031575</SimpleData>
+		<SimpleData name="latitude">51.4942985999835</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.267754041031575,51.4942985999835</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">District</SimpleData>
+		<SimpleData name="station">Dagenham East</SimpleData>
+		<SimpleData name="pm25">3</SimpleData>
+		<SimpleData name="longitude">0.165873249505814</SimpleData>
+		<SimpleData name="latitude">51.5441149436181</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>0.165873249505814,51.5441149436181</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">District</SimpleData>
+		<SimpleData name="station">Dagenham Heathway</SimpleData>
+		<SimpleData name="pm25">4</SimpleData>
+		<SimpleData name="longitude">0.147684774635545</SimpleData>
+		<SimpleData name="latitude">51.5416256211932</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>0.147684774635545,51.5416256211932</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">District</SimpleData>
+		<SimpleData name="station">Ealing Broadway</SimpleData>
+		<SimpleData name="pm25">2</SimpleData>
+		<SimpleData name="longitude">-0.30150387811454</SimpleData>
+		<SimpleData name="latitude">51.5149171042746</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.30150387811454,51.5149171042746</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">District</SimpleData>
+		<SimpleData name="station">Ealing Common</SimpleData>
+		<SimpleData name="pm25">3</SimpleData>
+		<SimpleData name="longitude">-0.288265829499857</SimpleData>
+		<SimpleData name="latitude">51.5101205872841</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.288265829499857,51.5101205872841</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">District</SimpleData>
+		<SimpleData name="station">Earl's Court</SimpleData>
+		<SimpleData name="pm25">21</SimpleData>
+		<SimpleData name="longitude">-0.193547083566538</SimpleData>
+		<SimpleData name="latitude">51.4918031725385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.193547083566538,51.4918031725385</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">District</SimpleData>
+		<SimpleData name="station">East Ham</SimpleData>
+		<SimpleData name="pm25">7</SimpleData>
+		<SimpleData name="longitude">0.0514729275731952</SimpleData>
+		<SimpleData name="latitude">51.5389232813123</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>0.051472927573195,51.5389232813123</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">District</SimpleData>
+		<SimpleData name="station">Elm Park</SimpleData>
+		<SimpleData name="pm25">5</SimpleData>
+		<SimpleData name="longitude">0.199174764773392</SimpleData>
+		<SimpleData name="latitude">51.5497993372327</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>0.199174764773392,51.5497993372327</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">District</SimpleData>
+		<SimpleData name="station">Embankment</SimpleData>
+		<SimpleData name="pm25">104</SimpleData>
+		<SimpleData name="longitude">-0.122355890226947</SimpleData>
+		<SimpleData name="latitude">51.507240181685</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.122355890226947,51.507240181685</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">District</SimpleData>
+		<SimpleData name="station">Gloucester Road</SimpleData>
+		<SimpleData name="pm25">24</SimpleData>
+		<SimpleData name="longitude">-0.182992073518021</SimpleData>
+		<SimpleData name="latitude">51.4942389349944</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.182992073518021,51.4942389349944</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">District</SimpleData>
+		<SimpleData name="station">Hammersmith</SimpleData>
+		<SimpleData name="pm25">3</SimpleData>
+		<SimpleData name="longitude">-0.222399662053271</SimpleData>
+		<SimpleData name="latitude">51.4925677962556</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.222399662053271,51.4925677962556</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">District</SimpleData>
+		<SimpleData name="station">Hornchurch</SimpleData>
+		<SimpleData name="pm25">3</SimpleData>
+		<SimpleData name="longitude">0.219025243887781</SimpleData>
+		<SimpleData name="latitude">51.5540028973922</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>0.219025243887781,51.5540028973922</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">District</SimpleData>
+		<SimpleData name="station">Mansion House</SimpleData>
+		<SimpleData name="pm25">79</SimpleData>
+		<SimpleData name="longitude">-0.0941862553677917</SimpleData>
+		<SimpleData name="latitude">51.5120194809428</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.094186255367792,51.5120194809428</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">District</SimpleData>
+		<SimpleData name="station">Mile End</SimpleData>
+		<SimpleData name="pm25">82</SimpleData>
+		<SimpleData name="longitude">-0.0334108387183889</SimpleData>
+		<SimpleData name="latitude">51.5250896089283</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.033410838718389,51.5250896089283</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">District</SimpleData>
+		<SimpleData name="station">Monument</SimpleData>
+		<SimpleData name="pm25">79</SimpleData>
+		<SimpleData name="longitude">-0.0889425138013583</SimpleData>
+		<SimpleData name="latitude">51.5133459887229</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.088942513801358,51.5133459887229</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">District</SimpleData>
+		<SimpleData name="station">Plaistow</SimpleData>
+		<SimpleData name="pm25">13</SimpleData>
+		<SimpleData name="longitude">0.0178062776497074</SimpleData>
+		<SimpleData name="latitude">51.5312159927125</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>0.017806277649707,51.5312159927125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">District</SimpleData>
+		<SimpleData name="station">Ravenscourt Park</SimpleData>
+		<SimpleData name="pm25">2</SimpleData>
+		<SimpleData name="longitude">-0.236254750538202</SimpleData>
+		<SimpleData name="latitude">51.4941348461952</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.236254750538202,51.4941348461952</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">District</SimpleData>
+		<SimpleData name="station">Sloane Square</SimpleData>
+		<SimpleData name="pm25">57</SimpleData>
+		<SimpleData name="longitude">-0.156491756080546</SimpleData>
+		<SimpleData name="latitude">51.4922876241935</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.156491756080546,51.4922876241935</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">District</SimpleData>
+		<SimpleData name="station">South Kensington</SimpleData>
+		<SimpleData name="pm25">45</SimpleData>
+		<SimpleData name="longitude">-0.173925894121211</SimpleData>
+		<SimpleData name="latitude">51.4939991962878</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.173925894121211,51.4939991962878</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">District</SimpleData>
+		<SimpleData name="station">St. James's Park</SimpleData>
+		<SimpleData name="pm25">94</SimpleData>
+		<SimpleData name="longitude">-0.134177732422094</SimpleData>
+		<SimpleData name="latitude">51.4993445670645</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.134177732422094,51.4993445670645</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">District</SimpleData>
+		<SimpleData name="station">Stamford Brook</SimpleData>
+		<SimpleData name="pm25">2</SimpleData>
+		<SimpleData name="longitude">-0.245449157592304</SimpleData>
+		<SimpleData name="latitude">51.4947943236457</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.245449157592304,51.4947943236457</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">District</SimpleData>
+		<SimpleData name="station">Stepney Green</SimpleData>
+		<SimpleData name="pm25">127</SimpleData>
+		<SimpleData name="longitude">-0.0464636979729374</SimpleData>
+		<SimpleData name="latitude">51.5219085262753</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.046463697972937,51.5219085262753</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">District</SimpleData>
+		<SimpleData name="station">Temple</SimpleData>
+		<SimpleData name="pm25">82</SimpleData>
+		<SimpleData name="longitude">-0.113699915185203</SimpleData>
+		<SimpleData name="latitude">51.5109680760482</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.113699915185203,51.5109680760482</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">District</SimpleData>
+		<SimpleData name="station">Tower Hill</SimpleData>
+		<SimpleData name="pm25">91</SimpleData>
+		<SimpleData name="longitude">-0.0763547925529849</SimpleData>
+		<SimpleData name="latitude">51.5100647442361</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.076354792552985,51.5100647442361</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">District</SimpleData>
+		<SimpleData name="station">Turnham Green</SimpleData>
+		<SimpleData name="pm25">2</SimpleData>
+		<SimpleData name="longitude">-0.25452731041433</SimpleData>
+		<SimpleData name="latitude">51.4951096367461</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.25452731041433,51.4951096367461</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">District</SimpleData>
+		<SimpleData name="station">Upminster</SimpleData>
+		<SimpleData name="pm25">2</SimpleData>
+		<SimpleData name="longitude">0.251089475157128</SimpleData>
+		<SimpleData name="latitude">51.5588866621079</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>0.251089475157128,51.5588866621079</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">District</SimpleData>
+		<SimpleData name="station">Upminster Bridge</SimpleData>
+		<SimpleData name="pm25">6</SimpleData>
+		<SimpleData name="longitude">0.235775351536325</SimpleData>
+		<SimpleData name="latitude">51.5587478663842</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>0.235775351536325,51.5587478663842</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">District</SimpleData>
+		<SimpleData name="station">Upney</SimpleData>
+		<SimpleData name="pm25">3</SimpleData>
+		<SimpleData name="longitude">0.10157165914665</SimpleData>
+		<SimpleData name="latitude">51.538333167665</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>0.10157165914665,51.538333167665</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">District</SimpleData>
+		<SimpleData name="station">Upton Park</SimpleData>
+		<SimpleData name="pm25">15</SimpleData>
+		<SimpleData name="longitude">0.0352725794471313</SimpleData>
+		<SimpleData name="latitude">51.5352307177136</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>0.035272579447131,51.5352307177136</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">District</SimpleData>
+		<SimpleData name="station">Victoria</SimpleData>
+		<SimpleData name="pm25">75</SimpleData>
+		<SimpleData name="longitude">-0.143852003214913</SimpleData>
+		<SimpleData name="latitude">51.4963417077255</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.143852003214913,51.4963417077255</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">District</SimpleData>
+		<SimpleData name="station">West Ham</SimpleData>
+		<SimpleData name="pm25">21</SimpleData>
+		<SimpleData name="longitude">0.00504268288418963</SimpleData>
+		<SimpleData name="latitude">51.5281795214982</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>0.00504268288419,51.5281795214982</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">District</SimpleData>
+		<SimpleData name="station">West Kensington</SimpleData>
+		<SimpleData name="pm25">15</SimpleData>
+		<SimpleData name="longitude">-0.206476798704215</SimpleData>
+		<SimpleData name="latitude">51.4904908961814</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.206476798704215,51.4904908961814</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">District</SimpleData>
+		<SimpleData name="station">Westminster</SimpleData>
+		<SimpleData name="pm25">104</SimpleData>
+		<SimpleData name="longitude">-0.124813404822685</SimpleData>
+		<SimpleData name="latitude">51.5010836418734</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.124813404822685,51.5010836418734</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">District</SimpleData>
+		<SimpleData name="station">Whitechapel</SimpleData>
+		<SimpleData name="pm25">104</SimpleData>
+		<SimpleData name="longitude">-0.0599883533363733</SimpleData>
+		<SimpleData name="latitude">51.519453211743</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.059988353336373,51.519453211743</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Bakerloo</SimpleData>
+		<SimpleData name="station">Baker Street</SimpleData>
+		<SimpleData name="pm25">273</SimpleData>
+		<SimpleData name="longitude">-0.156907095550195</SimpleData>
+		<SimpleData name="latitude">51.5230574801318</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.156907095550195,51.5230574801318</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Bakerloo</SimpleData>
+		<SimpleData name="station">Charing Cross</SimpleData>
+		<SimpleData name="pm25">223</SimpleData>
+		<SimpleData name="longitude">-0.124750139920854</SimpleData>
+		<SimpleData name="latitude">51.5085913980902</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.124750139920854,51.5085913980902</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Bakerloo</SimpleData>
+		<SimpleData name="station">Edgware Road Bakerloo</SimpleData>
+		<SimpleData name="pm25">311</SimpleData>
+		<SimpleData name="longitude">-0.170140166750187</SimpleData>
+		<SimpleData name="latitude">51.5201802474048</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.170140166750187,51.5201802474048</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Bakerloo</SimpleData>
+		<SimpleData name="station">Elephant &amp; Castle</SimpleData>
+		<SimpleData name="pm25">76</SimpleData>
+		<SimpleData name="longitude">-0.100727305415241</SimpleData>
+		<SimpleData name="latitude">51.4957771029042</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.100727305415241,51.4957771029042</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Bakerloo</SimpleData>
+		<SimpleData name="station">Embankment</SimpleData>
+		<SimpleData name="pm25">227</SimpleData>
+		<SimpleData name="longitude">-0.122355890226947</SimpleData>
+		<SimpleData name="latitude">51.507240181685</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.122355890226947,51.507240181685</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Bakerloo</SimpleData>
+		<SimpleData name="station">Harlesden</SimpleData>
+		<SimpleData name="pm25">16</SimpleData>
+		<SimpleData name="longitude">-0.257498072648788</SimpleData>
+		<SimpleData name="latitude">51.5361950061471</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.257498072648788,51.5361950061471</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Bakerloo</SimpleData>
+		<SimpleData name="station">Harrow &amp; Wealdstone</SimpleData>
+		<SimpleData name="pm25">17</SimpleData>
+		<SimpleData name="longitude">-0.335233900242888</SimpleData>
+		<SimpleData name="latitude">51.592212361308</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.335233900242888,51.592212361308</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Bakerloo</SimpleData>
+		<SimpleData name="station">Kensal Green</SimpleData>
+		<SimpleData name="pm25">27</SimpleData>
+		<SimpleData name="longitude">-0.224715828087813</SimpleData>
+		<SimpleData name="latitude">51.5304609472902</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.224715828087813,51.5304609472902</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Bakerloo</SimpleData>
+		<SimpleData name="station">Kenton</SimpleData>
+		<SimpleData name="pm25">19</SimpleData>
+		<SimpleData name="longitude">-0.317169124443548</SimpleData>
+		<SimpleData name="latitude">51.5817845618982</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.317169124443548,51.5817845618982</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Bakerloo</SimpleData>
+		<SimpleData name="station">Kilburn Park</SimpleData>
+		<SimpleData name="pm25">150</SimpleData>
+		<SimpleData name="longitude">-0.193968544665849</SimpleData>
+		<SimpleData name="latitude">51.5350723215204</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.193968544665849,51.5350723215204</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Bakerloo</SimpleData>
+		<SimpleData name="station">Lambeth North</SimpleData>
+		<SimpleData name="pm25">173</SimpleData>
+		<SimpleData name="longitude">-0.111756833497106</SimpleData>
+		<SimpleData name="latitude">51.4990576491891</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.111756833497106,51.4990576491891</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Bakerloo</SimpleData>
+		<SimpleData name="station">Maida Vale</SimpleData>
+		<SimpleData name="pm25">268</SimpleData>
+		<SimpleData name="longitude">-0.185629243233205</SimpleData>
+		<SimpleData name="latitude">51.5297640015609</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.185629243233205,51.5297640015609</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Bakerloo</SimpleData>
+		<SimpleData name="station">Marylebone</SimpleData>
+		<SimpleData name="pm25">303</SimpleData>
+		<SimpleData name="longitude">-0.163110476104703</SimpleData>
+		<SimpleData name="latitude">51.5222195717944</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.163110476104703,51.5222195717944</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Bakerloo</SimpleData>
+		<SimpleData name="station">North Wembley</SimpleData>
+		<SimpleData name="pm25">31</SimpleData>
+		<SimpleData name="longitude">-0.304161163333056</SimpleData>
+		<SimpleData name="latitude">51.5624888049771</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.304161163333056,51.5624888049771</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Bakerloo</SimpleData>
+		<SimpleData name="station">Oxford Circus</SimpleData>
+		<SimpleData name="pm25">263</SimpleData>
+		<SimpleData name="longitude">-0.141762740053752</SimpleData>
+		<SimpleData name="latitude">51.5151209634782</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.141762740053752,51.5151209634782</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Bakerloo</SimpleData>
+		<SimpleData name="station">Paddington</SimpleData>
+		<SimpleData name="pm25">244</SimpleData>
+		<SimpleData name="longitude">-0.175394293305568</SimpleData>
+		<SimpleData name="latitude">51.515307249534</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.175394293305568,51.515307249534</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Bakerloo</SimpleData>
+		<SimpleData name="station">Piccadilly Circus</SimpleData>
+		<SimpleData name="pm25">244</SimpleData>
+		<SimpleData name="longitude">-0.134000809859946</SimpleData>
+		<SimpleData name="latitude">51.5100248728504</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.134000809859946,51.5100248728504</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Bakerloo</SimpleData>
+		<SimpleData name="station">Queen's Park</SimpleData>
+		<SimpleData name="pm25">56</SimpleData>
+		<SimpleData name="longitude">-0.204705409937602</SimpleData>
+		<SimpleData name="latitude">51.5341040815331</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.204705409937602,51.5341040815331</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Bakerloo</SimpleData>
+		<SimpleData name="station">Regent's Park</SimpleData>
+		<SimpleData name="pm25">243</SimpleData>
+		<SimpleData name="longitude">-0.146856145064191</SimpleData>
+		<SimpleData name="latitude">51.5235016169407</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.146856145064191,51.5235016169407</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Bakerloo</SimpleData>
+		<SimpleData name="station">South Kenton</SimpleData>
+		<SimpleData name="pm25">42</SimpleData>
+		<SimpleData name="longitude">-0.308593908102643</SimpleData>
+		<SimpleData name="latitude">51.5701692162948</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.308593908102643,51.5701692162948</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Bakerloo</SimpleData>
+		<SimpleData name="station">Stonebridge Park</SimpleData>
+		<SimpleData name="pm25">46</SimpleData>
+		<SimpleData name="longitude">-0.275402815357368</SimpleData>
+		<SimpleData name="latitude">51.5439232026704</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.275402815357368,51.5439232026704</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Bakerloo</SimpleData>
+		<SimpleData name="station">Warwick Avenue</SimpleData>
+		<SimpleData name="pm25">277</SimpleData>
+		<SimpleData name="longitude">-0.183681927779527</SimpleData>
+		<SimpleData name="latitude">51.5232683026151</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.183681927779527,51.5232683026151</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Bakerloo</SimpleData>
+		<SimpleData name="station">Waterloo</SimpleData>
+		<SimpleData name="pm25">205</SimpleData>
+		<SimpleData name="longitude">-0.11406591406559</SimpleData>
+		<SimpleData name="latitude">51.5035011566721</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.11406591406559,51.5035011566721</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Bakerloo</SimpleData>
+		<SimpleData name="station">Wembley Central</SimpleData>
+		<SimpleData name="pm25">35</SimpleData>
+		<SimpleData name="longitude">-0.296865352549774</SimpleData>
+		<SimpleData name="latitude">51.5523297792229</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.296865352549774,51.5523297792229</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Bakerloo</SimpleData>
+		<SimpleData name="station">Willesden Junction</SimpleData>
+		<SimpleData name="pm25">21</SimpleData>
+		<SimpleData name="longitude">-0.24428551679169</SimpleData>
+		<SimpleData name="latitude">51.532194246579</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.24428551679169,51.532194246579</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Metropolitan</SimpleData>
+		<SimpleData name="station">Aldgate</SimpleData>
+		<SimpleData name="pm25">29</SimpleData>
+		<SimpleData name="longitude">-0.0756155393583119</SimpleData>
+		<SimpleData name="latitude">51.5142701385097</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.075615539358312,51.5142701385097</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Metropolitan</SimpleData>
+		<SimpleData name="station">Amersham</SimpleData>
+		<SimpleData name="pm25">16</SimpleData>
+		<SimpleData name="longitude">-0.607482114730753</SimpleData>
+		<SimpleData name="latitude">51.6741488115231</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.607482114730753,51.6741488115231</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Metropolitan</SimpleData>
+		<SimpleData name="station">Baker Street</SimpleData>
+		<SimpleData name="pm25">42</SimpleData>
+		<SimpleData name="longitude">-0.156907095550195</SimpleData>
+		<SimpleData name="latitude">51.5230574801318</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.156907095550195,51.5230574801318</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Metropolitan</SimpleData>
+		<SimpleData name="station">Barbican</SimpleData>
+		<SimpleData name="pm25">35</SimpleData>
+		<SimpleData name="longitude">-0.0977101689484825</SimpleData>
+		<SimpleData name="latitude">51.5201430089585</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.097710168948483,51.5201430089585</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Metropolitan</SimpleData>
+		<SimpleData name="station">Chalfont &amp; Latimer</SimpleData>
+		<SimpleData name="pm25">28</SimpleData>
+		<SimpleData name="longitude">-0.560528943557499</SimpleData>
+		<SimpleData name="latitude">51.6680258562081</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.560528943557499,51.6680258562081</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Metropolitan</SimpleData>
+		<SimpleData name="station">Chesham</SimpleData>
+		<SimpleData name="pm25">24</SimpleData>
+		<SimpleData name="longitude">-0.611223087596524</SimpleData>
+		<SimpleData name="latitude">51.7050349036835</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.611223087596524,51.7050349036835</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Metropolitan</SimpleData>
+		<SimpleData name="station">Chorleywood</SimpleData>
+		<SimpleData name="pm25">24</SimpleData>
+		<SimpleData name="longitude">-0.518364276398269</SimpleData>
+		<SimpleData name="latitude">51.6542205126839</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.518364276398269,51.6542205126839</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Metropolitan</SimpleData>
+		<SimpleData name="station">Croxley</SimpleData>
+		<SimpleData name="pm25">25</SimpleData>
+		<SimpleData name="longitude">-0.4417181328514</SimpleData>
+		<SimpleData name="latitude">51.647042053716</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.4417181328514,51.647042053716</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Metropolitan</SimpleData>
+		<SimpleData name="station">Eastcote</SimpleData>
+		<SimpleData name="pm25">29</SimpleData>
+		<SimpleData name="longitude">-0.396839612015476</SimpleData>
+		<SimpleData name="latitude">51.5764974544914</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.396839612015476,51.5764974544914</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Metropolitan</SimpleData>
+		<SimpleData name="station">Euston Square</SimpleData>
+		<SimpleData name="pm25">45</SimpleData>
+		<SimpleData name="longitude">-0.135831007651795</SimpleData>
+		<SimpleData name="latitude">51.5255570566441</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.135831007651795,51.5255570566441</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Metropolitan</SimpleData>
+		<SimpleData name="station">Farringdon</SimpleData>
+		<SimpleData name="pm25">34</SimpleData>
+		<SimpleData name="longitude">-0.105063463561319</SimpleData>
+		<SimpleData name="latitude">51.5204418869053</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.105063463561319,51.5204418869053</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Metropolitan</SimpleData>
+		<SimpleData name="station">Finchley Road</SimpleData>
+		<SimpleData name="pm25">24</SimpleData>
+		<SimpleData name="longitude">-0.180498818533294</SimpleData>
+		<SimpleData name="latitude">51.5470668977089</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.180498818533294,51.5470668977089</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Metropolitan</SimpleData>
+		<SimpleData name="station">Great Portland Street</SimpleData>
+		<SimpleData name="pm25">48</SimpleData>
+		<SimpleData name="longitude">-0.143949941020566</SimpleData>
+		<SimpleData name="latitude">51.5237164493735</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.143949941020566,51.5237164493735</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Metropolitan</SimpleData>
+		<SimpleData name="station">Harrow on the Hill</SimpleData>
+		<SimpleData name="pm25">30</SimpleData>
+		<SimpleData name="longitude">-0.337018232077699</SimpleData>
+		<SimpleData name="latitude">51.5793248693329</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.337018232077699,51.5793248693329</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Metropolitan</SimpleData>
+		<SimpleData name="station">Hillingdon</SimpleData>
+		<SimpleData name="pm25">28</SimpleData>
+		<SimpleData name="longitude">-0.449928955707834</SimpleData>
+		<SimpleData name="latitude">51.5537142543158</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.449928955707834,51.5537142543158</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Metropolitan</SimpleData>
+		<SimpleData name="station">Ickenham</SimpleData>
+		<SimpleData name="pm25">28</SimpleData>
+		<SimpleData name="longitude">-0.442030467130046</SimpleData>
+		<SimpleData name="latitude">51.5619813206062</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.442030467130046,51.5619813206062</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Metropolitan</SimpleData>
+		<SimpleData name="station">King's Cross St. Pancras</SimpleData>
+		<SimpleData name="pm25">40</SimpleData>
+		<SimpleData name="longitude">-0.12385439526953</SimpleData>
+		<SimpleData name="latitude">51.5303929190998</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.12385439526953,51.5303929190998</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Metropolitan</SimpleData>
+		<SimpleData name="station">Liverpool Street</SimpleData>
+		<SimpleData name="pm25">33</SimpleData>
+		<SimpleData name="longitude">-0.0829663422507892</SimpleData>
+		<SimpleData name="latitude">51.5173490726454</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.082966342250789,51.5173490726454</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Metropolitan</SimpleData>
+		<SimpleData name="station">Moor Park</SimpleData>
+		<SimpleData name="pm25">29</SimpleData>
+		<SimpleData name="longitude">-0.432659877415135</SimpleData>
+		<SimpleData name="latitude">51.6297287643203</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.432659877415135,51.6297287643203</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Metropolitan</SimpleData>
+		<SimpleData name="station">Moorgate</SimpleData>
+		<SimpleData name="pm25">31</SimpleData>
+		<SimpleData name="longitude">-0.0890062924197783</SimpleData>
+		<SimpleData name="latitude">51.5183648779609</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.089006292419778,51.5183648779609</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Metropolitan</SimpleData>
+		<SimpleData name="station">North Harrow</SimpleData>
+		<SimpleData name="pm25">24</SimpleData>
+		<SimpleData name="longitude">-0.362222889438958</SimpleData>
+		<SimpleData name="latitude">51.5847958454597</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.362222889438958,51.5847958454597</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Metropolitan</SimpleData>
+		<SimpleData name="station">Northwick Park</SimpleData>
+		<SimpleData name="pm25">26</SimpleData>
+		<SimpleData name="longitude">-0.318210824655916</SimpleData>
+		<SimpleData name="latitude">51.5785892718107</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.318210824655916,51.5785892718107</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Metropolitan</SimpleData>
+		<SimpleData name="station">Northwood</SimpleData>
+		<SimpleData name="pm25">23</SimpleData>
+		<SimpleData name="longitude">-0.423854079587549</SimpleData>
+		<SimpleData name="latitude">51.611159194315</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.423854079587549,51.611159194315</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Metropolitan</SimpleData>
+		<SimpleData name="station">Northwood Hills</SimpleData>
+		<SimpleData name="pm25">23</SimpleData>
+		<SimpleData name="longitude">-0.409293160520413</SimpleData>
+		<SimpleData name="latitude">51.6004960084266</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.409293160520413,51.6004960084266</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Metropolitan</SimpleData>
+		<SimpleData name="station">Pinner</SimpleData>
+		<SimpleData name="pm25">25</SimpleData>
+		<SimpleData name="longitude">-0.380917294847489</SimpleData>
+		<SimpleData name="latitude">51.5928603972737</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.380917294847489,51.5928603972737</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Metropolitan</SimpleData>
+		<SimpleData name="station">Preston Road</SimpleData>
+		<SimpleData name="pm25">26</SimpleData>
+		<SimpleData name="longitude">-0.295263147780848</SimpleData>
+		<SimpleData name="latitude">51.5720355476408</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.295263147780848,51.5720355476408</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Metropolitan</SimpleData>
+		<SimpleData name="station">Rayners Lane</SimpleData>
+		<SimpleData name="pm25">27</SimpleData>
+		<SimpleData name="longitude">-0.371003786525323</SimpleData>
+		<SimpleData name="latitude">51.5749727121712</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.371003786525323,51.5749727121712</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Metropolitan</SimpleData>
+		<SimpleData name="station">Rickmansworth</SimpleData>
+		<SimpleData name="pm25">21</SimpleData>
+		<SimpleData name="longitude">-0.473715272247198</SimpleData>
+		<SimpleData name="latitude">51.6402686973638</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.473715272247198,51.6402686973638</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Metropolitan</SimpleData>
+		<SimpleData name="station">Ruislip</SimpleData>
+		<SimpleData name="pm25">29</SimpleData>
+		<SimpleData name="longitude">-0.421461749942457</SimpleData>
+		<SimpleData name="latitude">51.5714449233126</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.421461749942457,51.5714449233126</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Metropolitan</SimpleData>
+		<SimpleData name="station">Ruislip Manor</SimpleData>
+		<SimpleData name="pm25">30</SimpleData>
+		<SimpleData name="longitude">-0.412339167812516</SimpleData>
+		<SimpleData name="latitude">51.5731832369755</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.412339167812516,51.5731832369755</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Metropolitan</SimpleData>
+		<SimpleData name="station">Uxbridge</SimpleData>
+		<SimpleData name="pm25">31</SimpleData>
+		<SimpleData name="longitude">-0.478138579007403</SimpleData>
+		<SimpleData name="latitude">51.5464941672574</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.478138579007403,51.5464941672574</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Metropolitan</SimpleData>
+		<SimpleData name="station">Watford</SimpleData>
+		<SimpleData name="pm25">28</SimpleData>
+		<SimpleData name="longitude">-0.417276258670647</SimpleData>
+		<SimpleData name="latitude">51.6574246684405</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.417276258670647,51.6574246684405</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Metropolitan</SimpleData>
+		<SimpleData name="station">Wembley Park</SimpleData>
+		<SimpleData name="pm25">31</SimpleData>
+		<SimpleData name="longitude">-0.279244922709806</SimpleData>
+		<SimpleData name="latitude">51.5632591005855</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.279244922709806,51.5632591005855</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Metropolitan</SimpleData>
+		<SimpleData name="station">West Harrow</SimpleData>
+		<SimpleData name="pm25">28</SimpleData>
+		<SimpleData name="longitude">-0.352921139117565</SimpleData>
+		<SimpleData name="latitude">51.5797739335601</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.352921139117565,51.5797739335601</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Docklands Light Railway</SimpleData>
+		<SimpleData name="station">Abbey Road</SimpleData>
+		<SimpleData name="pm25">4</SimpleData>
+		<SimpleData name="longitude">0.00399997090435369</SimpleData>
+		<SimpleData name="latitude">51.5319999954892</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>0.003999970904354,51.5319999954892</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Docklands Light Railway</SimpleData>
+		<SimpleData name="station">All Saints</SimpleData>
+		<SimpleData name="pm25">4</SimpleData>
+		<SimpleData name="longitude">-0.0127458205133258</SimpleData>
+		<SimpleData name="latitude">51.5110095309662</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.012745820513326,51.5110095309662</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Docklands Light Railway</SimpleData>
+		<SimpleData name="station">Bank</SimpleData>
+		<SimpleData name="pm25">68</SimpleData>
+		<SimpleData name="longitude">-0.0889155896595293</SimpleData>
+		<SimpleData name="latitude">51.5133005871853</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.088915589659529,51.5133005871853</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Docklands Light Railway</SimpleData>
+		<SimpleData name="station">Beckton</SimpleData>
+		<SimpleData name="pm25">4</SimpleData>
+		<SimpleData name="longitude">0.0609397047426822</SimpleData>
+		<SimpleData name="latitude">51.5151334314444</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>0.060939704742682,51.5151334314444</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Docklands Light Railway</SimpleData>
+		<SimpleData name="station">Beckton Park</SimpleData>
+		<SimpleData name="pm25">4</SimpleData>
+		<SimpleData name="longitude">0.0548959595801836</SimpleData>
+		<SimpleData name="latitude">51.5089445612071</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>0.054895959580184,51.5089445612071</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Docklands Light Railway</SimpleData>
+		<SimpleData name="station">Blackwall</SimpleData>
+		<SimpleData name="pm25">4</SimpleData>
+		<SimpleData name="longitude">-0.00710310474759815</SimpleData>
+		<SimpleData name="latitude">51.508215980423</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.007103104747598,51.508215980423</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Docklands Light Railway</SimpleData>
+		<SimpleData name="station">Bow Church</SimpleData>
+		<SimpleData name="pm25">4</SimpleData>
+		<SimpleData name="longitude">-0.0206852453367832</SimpleData>
+		<SimpleData name="latitude">51.5273305446436</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.020685245336783,51.5273305446436</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Docklands Light Railway</SimpleData>
+		<SimpleData name="station">Canary Wharf</SimpleData>
+		<SimpleData name="pm25">4</SimpleData>
+		<SimpleData name="longitude">-0.0194248127094569</SimpleData>
+		<SimpleData name="latitude">51.5035506956234</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.019424812709457,51.5035506956234</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Docklands Light Railway</SimpleData>
+		<SimpleData name="station">Canning Town</SimpleData>
+		<SimpleData name="pm25">4</SimpleData>
+		<SimpleData name="longitude">0.00817443720763503</SimpleData>
+		<SimpleData name="latitude">51.5138365875392</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>0.008174437207635,51.5138365875392</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Docklands Light Railway</SimpleData>
+		<SimpleData name="station">Crossharbour &amp; London Arena</SimpleData>
+		<SimpleData name="pm25">4</SimpleData>
+		<SimpleData name="longitude">-0.0146075576392002</SimpleData>
+		<SimpleData name="latitude">51.4956995690833</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.0146075576392,51.4956995690833</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Docklands Light Railway</SimpleData>
+		<SimpleData name="station">Custom House</SimpleData>
+		<SimpleData name="pm25">4</SimpleData>
+		<SimpleData name="longitude">0.0276857372885878</SimpleData>
+		<SimpleData name="latitude">51.5095440824557</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>0.027685737288588,51.5095440824557</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Docklands Light Railway</SimpleData>
+		<SimpleData name="station">Cutty Sark</SimpleData>
+		<SimpleData name="pm25">25</SimpleData>
+		<SimpleData name="longitude">-0.010851867174164</SimpleData>
+		<SimpleData name="latitude">51.4816972466273</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.010851867174164,51.4816972466273</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Docklands Light Railway</SimpleData>
+		<SimpleData name="station">Cyprus</SimpleData>
+		<SimpleData name="pm25">3</SimpleData>
+		<SimpleData name="longitude">0.0635357426620149</SimpleData>
+		<SimpleData name="latitude">51.5087928542111</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>0.063535742662015,51.5087928542111</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Docklands Light Railway</SimpleData>
+		<SimpleData name="station">Deptford Bridge</SimpleData>
+		<SimpleData name="pm25">8</SimpleData>
+		<SimpleData name="longitude">-0.0215565714668252</SimpleData>
+		<SimpleData name="latitude">51.4742885263862</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.021556571466825,51.4742885263862</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Docklands Light Railway</SimpleData>
+		<SimpleData name="station">Devons Road</SimpleData>
+		<SimpleData name="pm25">4</SimpleData>
+		<SimpleData name="longitude">-0.0172186267768534</SimpleData>
+		<SimpleData name="latitude">51.5221731704279</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.017218626776853,51.5221731704279</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Docklands Light Railway</SimpleData>
+		<SimpleData name="station">East India</SimpleData>
+		<SimpleData name="pm25">4</SimpleData>
+		<SimpleData name="longitude">-0.00274380779347066</SimpleData>
+		<SimpleData name="latitude">51.5090410887052</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.002743807793471,51.5090410887052</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Docklands Light Railway</SimpleData>
+		<SimpleData name="station">Elverson Road</SimpleData>
+		<SimpleData name="pm25">5</SimpleData>
+		<SimpleData name="longitude">-0.0174735040542753</SimpleData>
+		<SimpleData name="latitude">51.4688239302097</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.017473504054275,51.4688239302097</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Docklands Light Railway</SimpleData>
+		<SimpleData name="station">Gallions Reach</SimpleData>
+		<SimpleData name="pm25">3</SimpleData>
+		<SimpleData name="longitude">0.0722162244931934</SimpleData>
+		<SimpleData name="latitude">51.509539067717</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>0.072216224493193,51.509539067717</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Docklands Light Railway</SimpleData>
+		<SimpleData name="station">Greenwich</SimpleData>
+		<SimpleData name="pm25">13</SimpleData>
+		<SimpleData name="longitude">-0.0142057563163218</SimpleData>
+		<SimpleData name="latitude">51.4777613372466</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.014205756316322,51.4777613372466</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Docklands Light Railway</SimpleData>
+		<SimpleData name="station">Heron Quays</SimpleData>
+		<SimpleData name="pm25">4</SimpleData>
+		<SimpleData name="longitude">-0.0217511736820427</SimpleData>
+		<SimpleData name="latitude">51.5030683873021</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.021751173682043,51.5030683873021</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Docklands Light Railway</SimpleData>
+		<SimpleData name="station">Island Gardens</SimpleData>
+		<SimpleData name="pm25">10</SimpleData>
+		<SimpleData name="longitude">-0.00948296479112238</SimpleData>
+		<SimpleData name="latitude">51.486673957426</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.009482964791122,51.486673957426</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Docklands Light Railway</SimpleData>
+		<SimpleData name="station">King George V</SimpleData>
+		<SimpleData name="pm25">20</SimpleData>
+		<SimpleData name="longitude">0.0627779709866291</SimpleData>
+		<SimpleData name="latitude">51.5019719955236</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>0.062777970986629,51.5019719955236</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Docklands Light Railway</SimpleData>
+		<SimpleData name="station">Langdon Park</SimpleData>
+		<SimpleData name="pm25">4</SimpleData>
+		<SimpleData name="longitude">-0.0140000290711185</SimpleData>
+		<SimpleData name="latitude">51.5149999954592</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.014000029071119,51.5149999954592</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Docklands Light Railway</SimpleData>
+		<SimpleData name="station">Lewisham</SimpleData>
+		<SimpleData name="pm25">3</SimpleData>
+		<SimpleData name="longitude">-0.0147133797008178</SimpleData>
+		<SimpleData name="latitude">51.466070415659</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.014713379700818,51.466070415659</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Docklands Light Railway</SimpleData>
+		<SimpleData name="station">Limehouse</SimpleData>
+		<SimpleData name="pm25">5</SimpleData>
+		<SimpleData name="longitude">-0.039718000148008</SimpleData>
+		<SimpleData name="latitude">51.5124976110707</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.039718000148008,51.5124976110707</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Docklands Light Railway</SimpleData>
+		<SimpleData name="station">London City Airport</SimpleData>
+		<SimpleData name="pm25">14</SimpleData>
+		<SimpleData name="longitude">0.0488889709775648</SimpleData>
+		<SimpleData name="latitude">51.5036109955115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>0.048888970977565,51.5036109955115</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Docklands Light Railway</SimpleData>
+		<SimpleData name="station">Mudchute</SimpleData>
+		<SimpleData name="pm25">10</SimpleData>
+		<SimpleData name="longitude">-0.0150841743967338</SimpleData>
+		<SimpleData name="latitude">51.4903659841853</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.015084174396734,51.4903659841853</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Docklands Light Railway</SimpleData>
+		<SimpleData name="station">Pontoon Dock</SimpleData>
+		<SimpleData name="pm25">8</SimpleData>
+		<SimpleData name="longitude">0.0319439709729333</SimpleData>
+		<SimpleData name="latitude">51.5022219954941</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>0.031943970972933,51.5022219954941</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Docklands Light Railway</SimpleData>
+		<SimpleData name="station">Poplar</SimpleData>
+		<SimpleData name="pm25">4</SimpleData>
+		<SimpleData name="longitude">-0.0172221847517543</SimpleData>
+		<SimpleData name="latitude">51.5074882325672</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.017222184751754,51.5074882325672</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Docklands Light Railway</SimpleData>
+		<SimpleData name="station">Prince Regent</SimpleData>
+		<SimpleData name="pm25">4</SimpleData>
+		<SimpleData name="longitude">0.0332961725911756</SimpleData>
+		<SimpleData name="latitude">51.5093210461176</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>0.033296172591176,51.5093210461176</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Docklands Light Railway</SimpleData>
+		<SimpleData name="station">Pudding Mill Lane</SimpleData>
+		<SimpleData name="pm25">4</SimpleData>
+		<SimpleData name="longitude">-0.0131692052001553</SimpleData>
+		<SimpleData name="latitude">51.5343975802447</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.013169205200155,51.5343975802447</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Docklands Light Railway</SimpleData>
+		<SimpleData name="station">Royal Albert</SimpleData>
+		<SimpleData name="pm25">4</SimpleData>
+		<SimpleData name="longitude">0.0462158378841426</SimpleData>
+		<SimpleData name="latitude">51.5081970609704</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>0.046215837884143,51.5081970609704</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Docklands Light Railway</SimpleData>
+		<SimpleData name="station">Royal Victoria</SimpleData>
+		<SimpleData name="pm25">4</SimpleData>
+		<SimpleData name="longitude">0.0180810105934172</SimpleData>
+		<SimpleData name="latitude">51.5090622789654</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>0.018081010593417,51.5090622789654</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Docklands Light Railway</SimpleData>
+		<SimpleData name="station">Shadwell</SimpleData>
+		<SimpleData name="pm25">11</SimpleData>
+		<SimpleData name="longitude">-0.0569078642015404</SimpleData>
+		<SimpleData name="latitude">51.5112279441505</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.05690786420154,51.5112279441505</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Docklands Light Railway</SimpleData>
+		<SimpleData name="station">South Quay</SimpleData>
+		<SimpleData name="pm25">4</SimpleData>
+		<SimpleData name="longitude">-0.0190946056072136</SimpleData>
+		<SimpleData name="latitude">51.5005325754804</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.019094605607214,51.5005325754804</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Docklands Light Railway</SimpleData>
+		<SimpleData name="station">Star Lane</SimpleData>
+		<SimpleData name="pm25">4</SimpleData>
+		<SimpleData name="longitude">0.00419997092592157</SimpleData>
+		<SimpleData name="latitude">51.520699995481</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>0.004199970925922,51.520699995481</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Docklands Light Railway</SimpleData>
+		<SimpleData name="station">Stratford</SimpleData>
+		<SimpleData name="pm25">7</SimpleData>
+		<SimpleData name="longitude">-0.00319174020653238</SimpleData>
+		<SimpleData name="latitude">51.5413053643912</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.003191740206532,51.5413053643912</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Docklands Light Railway</SimpleData>
+		<SimpleData name="station">Stratford High Street</SimpleData>
+		<SimpleData name="pm25">7</SimpleData>
+		<SimpleData name="longitude">-0.000600029108850461</SimpleData>
+		<SimpleData name="latitude">51.5378999954892</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.00060002910885,51.5378999954892</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Docklands Light Railway</SimpleData>
+		<SimpleData name="station">Stratford International</SimpleData>
+		<SimpleData name="pm25">4</SimpleData>
+		<SimpleData name="longitude">-0.00860002912544771</SimpleData>
+		<SimpleData name="latitude">51.5447999954866</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.008600029125448,51.5447999954866</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Docklands Light Railway</SimpleData>
+		<SimpleData name="station">West Ham</SimpleData>
+		<SimpleData name="pm25">3</SimpleData>
+		<SimpleData name="longitude">0.00504268288418963</SimpleData>
+		<SimpleData name="latitude">51.5281795214982</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>0.00504268288419,51.5281795214982</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Docklands Light Railway</SimpleData>
+		<SimpleData name="station">West India Quay</SimpleData>
+		<SimpleData name="pm25">4</SimpleData>
+		<SimpleData name="longitude">-0.0201411208381573</SimpleData>
+		<SimpleData name="latitude">51.5066382806321</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.020141120838157,51.5066382806321</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Docklands Light Railway</SimpleData>
+		<SimpleData name="station">West Silvertown</SimpleData>
+		<SimpleData name="pm25">6</SimpleData>
+		<SimpleData name="longitude">0.022499970967812</SimpleData>
+		<SimpleData name="latitude">51.5027779954854</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>0.022499970967812,51.5027779954854</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Docklands Light Railway</SimpleData>
+		<SimpleData name="station">Westferry</SimpleData>
+		<SimpleData name="pm25">3</SimpleData>
+		<SimpleData name="longitude">-0.0257988597008238</SimpleData>
+		<SimpleData name="latitude">51.5094314532638</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.025798859700824,51.5094314532638</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Docklands Light Railway</SimpleData>
+		<SimpleData name="station">Woolwich Arsenal</SimpleData>
+		<SimpleData name="pm25">10</SimpleData>
+		<SimpleData name="longitude">0.0689999710119645</SimpleData>
+		<SimpleData name="latitude">51.4899999955208</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>0.068999971011965,51.4899999955208</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Central</SimpleData>
+		<SimpleData name="station">Bank</SimpleData>
+		<SimpleData name="pm25">213</SimpleData>
+		<SimpleData name="longitude">-0.0889155896595293</SimpleData>
+		<SimpleData name="latitude">51.5133005871853</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.088915589659529,51.5133005871853</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Central</SimpleData>
+		<SimpleData name="station">Barkingside</SimpleData>
+		<SimpleData name="pm25">31</SimpleData>
+		<SimpleData name="longitude">0.088517027003398</SimpleData>
+		<SimpleData name="latitude">51.5857871021065</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>0.088517027003398,51.5857871021065</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Central</SimpleData>
+		<SimpleData name="station">Bethnal Green</SimpleData>
+		<SimpleData name="pm25">230</SimpleData>
+		<SimpleData name="longitude">-0.0554353303885137</SimpleData>
+		<SimpleData name="latitude">51.5271923778772</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.055435330388514,51.5271923778772</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Central</SimpleData>
+		<SimpleData name="station">Bond Street</SimpleData>
+		<SimpleData name="pm25">367</SimpleData>
+		<SimpleData name="longitude">-0.149339587317781</SimpleData>
+		<SimpleData name="latitude">51.5138019597401</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.149339587317781,51.5138019597401</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Central</SimpleData>
+		<SimpleData name="station">Chancery Lane</SimpleData>
+		<SimpleData name="pm25">349</SimpleData>
+		<SimpleData name="longitude">-0.111674778791681</SimpleData>
+		<SimpleData name="latitude">51.5181205260754</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.111674778791681,51.5181205260754</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Central</SimpleData>
+		<SimpleData name="station">Ealing Broadway</SimpleData>
+		<SimpleData name="pm25">10</SimpleData>
+		<SimpleData name="longitude">-0.30150387811454</SimpleData>
+		<SimpleData name="latitude">51.5149171042746</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.30150387811454,51.5149171042746</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Central</SimpleData>
+		<SimpleData name="station">East Acton</SimpleData>
+		<SimpleData name="pm25">15</SimpleData>
+		<SimpleData name="longitude">-0.247509217115763</SimpleData>
+		<SimpleData name="latitude">51.5165777367966</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.247509217115763,51.5165777367966</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Central</SimpleData>
+		<SimpleData name="station">Fairlop</SimpleData>
+		<SimpleData name="pm25">12</SimpleData>
+		<SimpleData name="longitude">0.0909345558274624</SimpleData>
+		<SimpleData name="latitude">51.595680966547</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>0.090934555827462,51.595680966547</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Central</SimpleData>
+		<SimpleData name="station">Gants Hill</SimpleData>
+		<SimpleData name="pm25">55</SimpleData>
+		<SimpleData name="longitude">0.0661100876655891</SimpleData>
+		<SimpleData name="latitude">51.5764896648721</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>0.066110087665589,51.5764896648721</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Central</SimpleData>
+		<SimpleData name="station">Greenford</SimpleData>
+		<SimpleData name="pm25">7</SimpleData>
+		<SimpleData name="longitude">-0.346443866829608</SimpleData>
+		<SimpleData name="latitude">51.5423022098967</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.346443866829608,51.5423022098967</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Central</SimpleData>
+		<SimpleData name="station">Hainault</SimpleData>
+		<SimpleData name="pm25">9</SimpleData>
+		<SimpleData name="longitude">0.0931237618256298</SimpleData>
+		<SimpleData name="latitude">51.6037263559642</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>0.09312376182563,51.6037263559642</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Central</SimpleData>
+		<SimpleData name="station">Hanger Lane</SimpleData>
+		<SimpleData name="pm25">18</SimpleData>
+		<SimpleData name="longitude">-0.293012902601363</SimpleData>
+		<SimpleData name="latitude">51.5300088622931</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.293012902601363,51.5300088622931</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Central</SimpleData>
+		<SimpleData name="station">Holborn</SimpleData>
+		<SimpleData name="pm25">338</SimpleData>
+		<SimpleData name="longitude">-0.120005211266556</SimpleData>
+		<SimpleData name="latitude">51.5174360252702</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.120005211266556,51.5174360252702</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Central</SimpleData>
+		<SimpleData name="station">Holland Park</SimpleData>
+		<SimpleData name="pm25">123</SimpleData>
+		<SimpleData name="longitude">-0.205729131810459</SimpleData>
+		<SimpleData name="latitude">51.5073313162526</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.205729131810459,51.5073313162526</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Central</SimpleData>
+		<SimpleData name="station">Lancaster Gate</SimpleData>
+		<SimpleData name="pm25">260</SimpleData>
+		<SimpleData name="longitude">-0.175432799034059</SimpleData>
+		<SimpleData name="latitude">51.5118187715188</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.175432799034059,51.5118187715188</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Central</SimpleData>
+		<SimpleData name="station">Leyton</SimpleData>
+		<SimpleData name="pm25">43</SimpleData>
+		<SimpleData name="longitude">-0.00561623594626306</SimpleData>
+		<SimpleData name="latitude">51.5564362224647</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.005616235946263,51.5564362224647</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Central</SimpleData>
+		<SimpleData name="station">Leytonstone</SimpleData>
+		<SimpleData name="pm25">58</SimpleData>
+		<SimpleData name="longitude">0.00821661574546471</SimpleData>
+		<SimpleData name="latitude">51.5681874187232</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>0.008216615745465,51.5681874187232</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Central</SimpleData>
+		<SimpleData name="station">Liverpool Street</SimpleData>
+		<SimpleData name="pm25">296</SimpleData>
+		<SimpleData name="longitude">-0.0829663422507892</SimpleData>
+		<SimpleData name="latitude">51.5173490726454</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.082966342250789,51.5173490726454</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Central</SimpleData>
+		<SimpleData name="station">Marble Arch</SimpleData>
+		<SimpleData name="pm25">307</SimpleData>
+		<SimpleData name="longitude">-0.158444217834347</SimpleData>
+		<SimpleData name="latitude">51.5135406022116</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.158444217834347,51.5135406022116</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Central</SimpleData>
+		<SimpleData name="station">Mile End</SimpleData>
+		<SimpleData name="pm25">186</SimpleData>
+		<SimpleData name="longitude">-0.0334108387183889</SimpleData>
+		<SimpleData name="latitude">51.5250896089283</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.033410838718389,51.5250896089283</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Central</SimpleData>
+		<SimpleData name="station">Newbury Park</SimpleData>
+		<SimpleData name="pm25">56</SimpleData>
+		<SimpleData name="longitude">0.0903435338818181</SimpleData>
+		<SimpleData name="latitude">51.5755748465058</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>0.090343533881818,51.5755748465058</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Central</SimpleData>
+		<SimpleData name="station">North Acton</SimpleData>
+		<SimpleData name="pm25">14</SimpleData>
+		<SimpleData name="longitude">-0.25973192201439</SimpleData>
+		<SimpleData name="latitude">51.5233691019247</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.25973192201439,51.5233691019247</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Central</SimpleData>
+		<SimpleData name="station">Northolt</SimpleData>
+		<SimpleData name="pm25">8</SimpleData>
+		<SimpleData name="longitude">-0.368457253423259</SimpleData>
+		<SimpleData name="latitude">51.5481495946946</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.368457253423259,51.5481495946946</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Central</SimpleData>
+		<SimpleData name="station">Notting Hill Gate</SimpleData>
+		<SimpleData name="pm25">200</SimpleData>
+		<SimpleData name="longitude">-0.196539274263939</SimpleData>
+		<SimpleData name="latitude">51.5090607970822</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.196539274263939,51.5090607970822</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Central</SimpleData>
+		<SimpleData name="station">Oxford Circus</SimpleData>
+		<SimpleData name="pm25">338</SimpleData>
+		<SimpleData name="longitude">-0.141762740053752</SimpleData>
+		<SimpleData name="latitude">51.5151209634782</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.141762740053752,51.5151209634782</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Central</SimpleData>
+		<SimpleData name="station">Perivale</SimpleData>
+		<SimpleData name="pm25">28</SimpleData>
+		<SimpleData name="longitude">-0.323854131270201</SimpleData>
+		<SimpleData name="latitude">51.5365952938359</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.323854131270201,51.5365952938359</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Central</SimpleData>
+		<SimpleData name="station">Queensway</SimpleData>
+		<SimpleData name="pm25">277</SimpleData>
+		<SimpleData name="longitude">-0.187437156488682</SimpleData>
+		<SimpleData name="latitude">51.510377263814</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.187437156488682,51.510377263814</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Central</SimpleData>
+		<SimpleData name="station">Redbridge</SimpleData>
+		<SimpleData name="pm25">75</SimpleData>
+		<SimpleData name="longitude">0.0454200625109605</SimpleData>
+		<SimpleData name="latitude">51.5763036005583</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>0.045420062510961,51.5763036005583</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Central</SimpleData>
+		<SimpleData name="station">Ruislip Gardens</SimpleData>
+		<SimpleData name="pm25">19</SimpleData>
+		<SimpleData name="longitude">-0.411032297156913</SimpleData>
+		<SimpleData name="latitude">51.5605855422584</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.411032297156913,51.5605855422584</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Central</SimpleData>
+		<SimpleData name="station">Shepherd's Bush</SimpleData>
+		<SimpleData name="pm25">118</SimpleData>
+		<SimpleData name="longitude">-0.226303470689641</SimpleData>
+		<SimpleData name="latitude">51.5055580192115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.226303470689641,51.5055580192115</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Central</SimpleData>
+		<SimpleData name="station">South Ruislip</SimpleData>
+		<SimpleData name="pm25">16</SimpleData>
+		<SimpleData name="longitude">-0.398653032538504</SimpleData>
+		<SimpleData name="latitude">51.5565146651037</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.398653032538504,51.5565146651037</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Central</SimpleData>
+		<SimpleData name="station">St. Paul's</SimpleData>
+		<SimpleData name="pm25">256</SimpleData>
+		<SimpleData name="longitude">-0.0975724974977399</SimpleData>
+		<SimpleData name="latitude">51.5147992010715</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.09757249749774,51.5147992010715</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Central</SimpleData>
+		<SimpleData name="station">Stratford</SimpleData>
+		<SimpleData name="pm25">136</SimpleData>
+		<SimpleData name="longitude">-0.00319174020653238</SimpleData>
+		<SimpleData name="latitude">51.5413053643912</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.003191740206532,51.5413053643912</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Central</SimpleData>
+		<SimpleData name="station">Tottenham Court Road</SimpleData>
+		<SimpleData name="pm25">298</SimpleData>
+		<SimpleData name="longitude">-0.130865576538891</SimpleData>
+		<SimpleData name="latitude">51.5162067643653</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.130865576538891,51.5162067643653</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Central</SimpleData>
+		<SimpleData name="station">Wanstead</SimpleData>
+		<SimpleData name="pm25">35</SimpleData>
+		<SimpleData name="longitude">0.0287448202075677</SimpleData>
+		<SimpleData name="latitude">51.5755229696169</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>0.028744820207568,51.5755229696169</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Central</SimpleData>
+		<SimpleData name="station">West Acton</SimpleData>
+		<SimpleData name="pm25">8</SimpleData>
+		<SimpleData name="longitude">-0.280999513432893</SimpleData>
+		<SimpleData name="latitude">51.5178646422853</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.280999513432893,51.5178646422853</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Central</SimpleData>
+		<SimpleData name="station">West Ruislip</SimpleData>
+		<SimpleData name="pm25">10</SimpleData>
+		<SimpleData name="longitude">-0.437891136118741</SimpleData>
+		<SimpleData name="latitude">51.569524633157</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.437891136118741,51.569524633157</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Central</SimpleData>
+		<SimpleData name="station">White City</SimpleData>
+		<SimpleData name="pm25">11</SimpleData>
+		<SimpleData name="longitude">-0.224252829895808</SimpleData>
+		<SimpleData name="latitude">51.5119745541657</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.224252829895808,51.5119745541657</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Hammersmith &amp; City</SimpleData>
+		<SimpleData name="station">Aldgate East</SimpleData>
+		<SimpleData name="pm25">42</SimpleData>
+		<SimpleData name="longitude">-0.072288898066186</SimpleData>
+		<SimpleData name="latitude">51.515231670986</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.072288898066186,51.515231670986</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Hammersmith &amp; City</SimpleData>
+		<SimpleData name="station">Baker Street</SimpleData>
+		<SimpleData name="pm25">57</SimpleData>
+		<SimpleData name="longitude">-0.156907095550195</SimpleData>
+		<SimpleData name="latitude">51.5230574801318</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.156907095550195,51.5230574801318</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Hammersmith &amp; City</SimpleData>
+		<SimpleData name="station">Barbican</SimpleData>
+		<SimpleData name="pm25">25</SimpleData>
+		<SimpleData name="longitude">-0.0977101689484825</SimpleData>
+		<SimpleData name="latitude">51.5201430089585</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.097710168948483,51.5201430089585</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Hammersmith &amp; City</SimpleData>
+		<SimpleData name="station">Barking</SimpleData>
+		<SimpleData name="pm25">4</SimpleData>
+		<SimpleData name="longitude">0.0808571498882476</SimpleData>
+		<SimpleData name="latitude">51.5394488616848</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>0.080857149888248,51.5394488616848</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Hammersmith &amp; City</SimpleData>
+		<SimpleData name="station">Bow Road</SimpleData>
+		<SimpleData name="pm25">76</SimpleData>
+		<SimpleData name="longitude">-0.0248170692999619</SimpleData>
+		<SimpleData name="latitude">51.5267976888314</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.024817069299962,51.5267976888314</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Hammersmith &amp; City</SimpleData>
+		<SimpleData name="station">Bromley-by-Bow</SimpleData>
+		<SimpleData name="pm25">40</SimpleData>
+		<SimpleData name="longitude">-0.0116566951412326</SimpleData>
+		<SimpleData name="latitude">51.5247678155014</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.011656695141233,51.5247678155014</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Hammersmith &amp; City</SimpleData>
+		<SimpleData name="station">East Ham</SimpleData>
+		<SimpleData name="pm25">4</SimpleData>
+		<SimpleData name="longitude">0.0514729275731952</SimpleData>
+		<SimpleData name="latitude">51.5389232813123</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>0.051472927573195,51.5389232813123</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Hammersmith &amp; City</SimpleData>
+		<SimpleData name="station">Edgware Road Circle</SimpleData>
+		<SimpleData name="pm25">39</SimpleData>
+		<SimpleData name="longitude">-0.167671498643532</SimpleData>
+		<SimpleData name="latitude">51.5199168978625</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.167671498643532,51.5199168978625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Hammersmith &amp; City</SimpleData>
+		<SimpleData name="station">Euston Square</SimpleData>
+		<SimpleData name="pm25">54</SimpleData>
+		<SimpleData name="longitude">-0.135831007651795</SimpleData>
+		<SimpleData name="latitude">51.5255570566441</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.135831007651795,51.5255570566441</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Hammersmith &amp; City</SimpleData>
+		<SimpleData name="station">Farringdon</SimpleData>
+		<SimpleData name="pm25">45</SimpleData>
+		<SimpleData name="longitude">-0.105063463561319</SimpleData>
+		<SimpleData name="latitude">51.5204418869053</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.105063463561319,51.5204418869053</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Hammersmith &amp; City</SimpleData>
+		<SimpleData name="station">Goldhawk Road</SimpleData>
+		<SimpleData name="pm25">4</SimpleData>
+		<SimpleData name="longitude">-0.226746142348371</SimpleData>
+		<SimpleData name="latitude">51.5019497586583</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.226746142348371,51.5019497586583</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Hammersmith &amp; City</SimpleData>
+		<SimpleData name="station">Great Portland Street</SimpleData>
+		<SimpleData name="pm25">99</SimpleData>
+		<SimpleData name="longitude">-0.143949941020566</SimpleData>
+		<SimpleData name="latitude">51.5237164493735</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.143949941020566,51.5237164493735</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Hammersmith &amp; City</SimpleData>
+		<SimpleData name="station">Hammersmith</SimpleData>
+		<SimpleData name="pm25">4</SimpleData>
+		<SimpleData name="longitude">-0.222399662053271</SimpleData>
+		<SimpleData name="latitude">51.4925677962556</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.222399662053271,51.4925677962556</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Hammersmith &amp; City</SimpleData>
+		<SimpleData name="station">King's Cross St. Pancras</SimpleData>
+		<SimpleData name="pm25">69</SimpleData>
+		<SimpleData name="longitude">-0.12385439526953</SimpleData>
+		<SimpleData name="latitude">51.5303929190998</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.12385439526953,51.5303929190998</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Hammersmith &amp; City</SimpleData>
+		<SimpleData name="station">Ladbroke Grove</SimpleData>
+		<SimpleData name="pm25">5</SimpleData>
+		<SimpleData name="longitude">-0.210862187601604</SimpleData>
+		<SimpleData name="latitude">51.5171845005915</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.210862187601604,51.5171845005915</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Hammersmith &amp; City</SimpleData>
+		<SimpleData name="station">Latimer Road</SimpleData>
+		<SimpleData name="pm25">4</SimpleData>
+		<SimpleData name="longitude">-0.217778623910018</SimpleData>
+		<SimpleData name="latitude">51.5135399563404</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.217778623910018,51.5135399563404</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Hammersmith &amp; City</SimpleData>
+		<SimpleData name="station">Liverpool Street</SimpleData>
+		<SimpleData name="pm25">36</SimpleData>
+		<SimpleData name="longitude">-0.0829663422507892</SimpleData>
+		<SimpleData name="latitude">51.5173490726454</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.082966342250789,51.5173490726454</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Hammersmith &amp; City</SimpleData>
+		<SimpleData name="station">Mile End</SimpleData>
+		<SimpleData name="pm25">45</SimpleData>
+		<SimpleData name="longitude">-0.0334108387183889</SimpleData>
+		<SimpleData name="latitude">51.5250896089283</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.033410838718389,51.5250896089283</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Hammersmith &amp; City</SimpleData>
+		<SimpleData name="station">Moorgate</SimpleData>
+		<SimpleData name="pm25">22</SimpleData>
+		<SimpleData name="longitude">-0.0890062924197783</SimpleData>
+		<SimpleData name="latitude">51.5183648779609</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.089006292419778,51.5183648779609</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Hammersmith &amp; City</SimpleData>
+		<SimpleData name="station">Paddington</SimpleData>
+		<SimpleData name="pm25">19</SimpleData>
+		<SimpleData name="longitude">-0.175394293305568</SimpleData>
+		<SimpleData name="latitude">51.515307249534</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.175394293305568,51.515307249534</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Hammersmith &amp; City</SimpleData>
+		<SimpleData name="station">Plaistow</SimpleData>
+		<SimpleData name="pm25">5</SimpleData>
+		<SimpleData name="longitude">0.0178062776497074</SimpleData>
+		<SimpleData name="latitude">51.5312159927125</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>0.017806277649707,51.5312159927125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Hammersmith &amp; City</SimpleData>
+		<SimpleData name="station">Royal Oak</SimpleData>
+		<SimpleData name="pm25">9</SimpleData>
+		<SimpleData name="longitude">-0.188233000226284</SimpleData>
+		<SimpleData name="latitude">51.5190133201388</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.188233000226284,51.5190133201388</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Hammersmith &amp; City</SimpleData>
+		<SimpleData name="station">Shepherd's Bush Market</SimpleData>
+		<SimpleData name="pm25">4</SimpleData>
+		<SimpleData name="longitude">-0.226303470689641</SimpleData>
+		<SimpleData name="latitude">51.5055580192115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.226303470689641,51.5055580192115</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Hammersmith &amp; City</SimpleData>
+		<SimpleData name="station">Stepney Green</SimpleData>
+		<SimpleData name="pm25">74</SimpleData>
+		<SimpleData name="longitude">-0.0464636979729374</SimpleData>
+		<SimpleData name="latitude">51.5219085262753</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.046463697972937,51.5219085262753</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Hammersmith &amp; City</SimpleData>
+		<SimpleData name="station">Upton Park</SimpleData>
+		<SimpleData name="pm25">5</SimpleData>
+		<SimpleData name="longitude">0.0352725794471313</SimpleData>
+		<SimpleData name="latitude">51.5352307177136</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>0.035272579447131,51.5352307177136</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Hammersmith &amp; City</SimpleData>
+		<SimpleData name="station">West Ham</SimpleData>
+		<SimpleData name="pm25">17</SimpleData>
+		<SimpleData name="longitude">0.00504268288418963</SimpleData>
+		<SimpleData name="latitude">51.5281795214982</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>0.00504268288419,51.5281795214982</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Hammersmith &amp; City</SimpleData>
+		<SimpleData name="station">Westbourne Park</SimpleData>
+		<SimpleData name="pm25">4</SimpleData>
+		<SimpleData name="longitude">-0.200885345927106</SimpleData>
+		<SimpleData name="latitude">51.5209166272001</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.200885345927106,51.5209166272001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Hammersmith &amp; City</SimpleData>
+		<SimpleData name="station">Whitechapel</SimpleData>
+		<SimpleData name="pm25">63</SimpleData>
+		<SimpleData name="longitude">-0.0599883533363733</SimpleData>
+		<SimpleData name="latitude">51.519453211743</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.059988353336373,51.519453211743</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm25_per_station_line">
+		<SimpleData name="line">Hammersmith &amp; City</SimpleData>
+		<SimpleData name="station">Wood Lane</SimpleData>
+		<SimpleData name="pm25">4</SimpleData>
+		<SimpleData name="longitude">-0.224200029153065</SimpleData>
+		<SimpleData name="latitude">51.5097999952518</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.224200029153065,51.5097999952518</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

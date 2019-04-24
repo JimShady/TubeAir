@@ -1,0 +1,471 @@
+name,line,order,section,x,y
+Abbey Road,Docklands Light Railway,4,6,539100.037830311,183357.862233058
+Canning Town,Docklands Light Railway,1,6,539445,181346
+Canning Town,Docklands Light Railway,1,7,539445,181346
+Canning Town,Docklands Light Railway,1,8,539445,181346
+East India,Docklands Light Railway,6,3,538702,180792
+Elverson Road,Docklands Light Railway,12,5,537801,176292
+Gallions Reach,Docklands Light Railway,8,7,543902,180992
+Greenwich,Docklands Light Railway,10,5,538001,177292
+Heron Quays,Docklands Light Railway,4,5,537401,180092
+Island Gardens,Docklands Light Railway,8,5,538302,178292
+Lewisham,Docklands Light Railway,13,5,538001,175991
+Limehouse,Docklands Light Railway,2,3,536126,181107
+Mudchute,Docklands Light Railway,7,5,537902,178692
+Poplar,Docklands Light Railway,4,3,537702,180592
+Poplar,Docklands Light Railway,1,4,537702,180592
+Prince Regent,Docklands Light Railway,4,7,541202,180892
+Pudding Mill Lane,Docklands Light Railway,6,4,537902,183592
+Royal Albert,Docklands Light Railway,5,7,542102,180792
+Royal Victoria,Docklands Light Railway,2,7,540147,180834
+Shadwell,Docklands Light Railway,2,1,534937,180934
+Shadwell,Docklands Light Railway,2,2,534937,180934
+Shadwell,Docklands Light Railway,1,3,534937,180934
+South Quay,Docklands Light Railway,5,5,537593,179815
+Stratford,Docklands Light Railway,7,4,538573,184379
+Stratford,Docklands Light Railway,6,6,538573,184379
+Tower Gateway,Docklands Light Railway,1,2,533716,180828
+West Ham,Docklands Light Railway,3,6,539184,182935
+West India Quay,Docklands Light Railway,2,5,537502,180492
+Westferry,Docklands Light Railway,3,3,537101,180792
+Westferry,Docklands Light Railway,1,5,537101,180792
+Langdon Park,Docklands Light Railway,3,4,537902.92930109,181433.384479856
+Star Lane,Docklands Light Railway,2,6,539148.330566789,182101.661998873
+Stratford High Street,Docklands Light Railway,5,6,538763.066034454,184005.224848849
+Stratford International,Docklands Light Railway,7,6,538187.395918761,184757.38755113
+West Silvertown,Docklands Light Railway,2,8,540472.949726526,180143.645517271
+Pontoon Dock,Docklands Light Railway,3,8,541130.087577199,180099.972186564
+London City Airport,Docklands Light Railway,4,8,542301.772492544,180287.216013281
+King George V,Docklands Light Railway,5,8,543270.795940003,180132.03444224
+Woolwich Arsenal,Docklands Light Railway,6,8,543740.245424279,178812.933783504
+West Ham,Hammersmith & City,25,1,539184,182935
+St. James's Park,Circle,20,1,529609,179473
+Victoria,Circle,19,1,528946,179122
+Embankment,Circle,22,1,530407,180372
+Goldhawk Road,Circle,9,2,523177,179603
+Hammersmith,Circle,10,2,523504,178567
+Temple,Circle,23,1,530997,180802
+Turnham Green,Piccadilly,27,1,521267,178796
+Sloane Square,Circle,18,1,528080,178649
+Westminster,Circle,21,1,530254,179683
+Gloucester Road,Circle,16,1,526235,178820
+South Kensington,Circle,17,1,526865,178809
+Blackfriars,Circle,24,1,531696,180878
+Latimer Road,Circle,6,2,523768,180907
+Barking,Hammersmith & City,29,1,544407,184335
+Plaistow,Hammersmith & City,26,1,540060,183297
+Stepney Green,Hammersmith & City,21,1,535630,182141
+Cannon Street,Circle,26,1,532592,180895
+East Ham,Hammersmith & City,28,1,542371,184219
+Farringdon,Circle,6,1,531569,181871
+Farringdon,Hammersmith & City,15,1,531569,181871
+Upton Park,Hammersmith & City,27,1,541259,183777
+Bow Road,Hammersmith & City,23,1,537117,182725
+Whitechapel,Hammersmith & City,20,1,534699,181843
+High Street Kensington,Circle,15,1,525557,179519
+Ladbroke Grove,Circle,5,2,524238,181324
+Liverpool Street,Circle,3,1,533111,181567
+Liverpool Street,Hammersmith & City,18,1,533111,181567
+Mansion House,Circle,25,1,532348,180954
+Moorgate,Circle,4,1,532689,181669
+Moorgate,Hammersmith & City,17,1,532689,181669
+Tower Hill,Circle,1,1,533591,180769
+Tower Hill,Circle,28,1,533591,180769
+Bromley-by-Bow,Hammersmith & City,24,1,538036,182524
+King's Cross St. Pancras,Circle,7,1,530237,182944
+King's Cross St. Pancras,Hammersmith & City,14,1,530237,182944
+Barbican,Circle,5,1,532080,181851
+Barbican,Hammersmith & City,16,1,532080,181851
+Bayswater,Circle,13,1,525835,180812
+Euston Square,Circle,8,1,529420,182385
+Paddington,Circle,12,1,526704,181176
+Paddington,Circle,2,2,526704,181176
+Baker Street,Circle,10,1,527965,182070
+Royal Oak,Circle,3,2,525803,181566
+Notting Hill Gate,District,3,7,525254,180445
+Westbourne Park,Circle,4,2,524920,181756
+Ealing Common,Piccadilly,2,6,518886,180410
+Great Portland Street,Circle,9,1,528862,182166
+Great Portland Street,Hammersmith & City,12,1,528862,182166
+Uxbridge,Piccadilly,15,6,505626,184164
+Wembley Park,Metropolitan,11,1,519373,186334
+Ruislip Manor,Piccadilly,11,6,510124,187229
+Ruislip,Piccadilly,12,6,509496,187022
+Finchley Road,Metropolitan,10,1,526262,184699
+Eastcote,Piccadilly,10,6,511190,187621
+Rayners Lane,Piccadilly,9,6,512984,187491
+All Saints,Docklands Light Railway,2,4,538002,180992
+Bank,Docklands Light Railway,1,1,532710,181106
+Beckton,Docklands Light Railway,9,7,543102,181592
+Beckton Park,Docklands Light Railway,6,7,542702,180892
+Richmond,District,4,4,518071,175166
+Blackwall,Docklands Light Railway,5,3,538402,180692
+Bow Church,Docklands Light Railway,5,4,537402,182792
+Canary Wharf,Docklands Light Railway,3,5,537561,180150
+Canning Town,Docklands Light Railway,7,3,539445,181346
+Devons Road,Docklands Light Railway,4,4,537658,182225
+West Ham,District,13,1,539184,182935
+West Ham,Jubilee,26,1,539184,182935
+Bermondsey,Jubilee,21,1,534508,179445
+Canning Town,Jubilee,25,1,539445,181346
+North Greenwich,Jubilee,24,1,539170,179819
+Canary Wharf,Jubilee,23,1,537561,180150
+Elephant & Castle,Bakerloo,1,1,531941,179136
+Elephant & Castle,Northern,2,2,531941,179136
+Ickenham,Piccadilly,13,6,508093,185939
+Kennington,Northern,12,1,531633,178276
+Kennington,Northern,1,2,531633,178276
+Kennington,Northern,1,3,531633,178276
+Lambeth North,Bakerloo,2,1,531166,179481
+Parsons Green,District,4,2,525021,176660
+Borough,Northern,3,2,532413,179751
+Fulham Broadway,District,3,2,525442,177275
+Kensington (Olympia),District,2,6,524324,179170
+London Bridge,Jubilee,20,1,532871,180242
+London Bridge,Northern,4,2,532871,180242
+Oval,Northern,11,1,531136,177594
+Putney Bridge,District,5,2,524503,175847
+Southwark,Jubilee,19,1,531615,180025
+St. James's Park,District,28,1,529609,179473
+Stratford,Central,3,4,538573,184379
+Stratford,Jubilee,27,1,538573,184379
+Vauxhall,Victoria,3,1,530372,177978
+Waterloo,Bakerloo,3,1,530993,179971
+Waterloo,Jubilee,18,1,530993,179971
+Waterloo,Northern,2,3,530993,179971
+Waterloo,Waterloo & City,1,1,530993,179971
+Barons Court,District,3,3,524121,178314
+Barons Court,Piccadilly,25,1,524121,178314
+Victoria,District,29,1,528946,179122
+Victoria,Victoria,5,1,528946,179122
+Canada Water,Jubilee,22,1,535476,179464
+Embankment,Bakerloo,4,1,530407,180372
+Embankment,District,26,1,530407,180372
+Embankment,Northern,3,3,530407,180372
+Goldhawk Road,Hammersmith & City,2,1,523177,179603
+Hammersmith,District,4,3,523504,178567
+Hammersmith,Hammersmith & City,1,1,523504,178567
+Hammersmith,Piccadilly,26,1,523504,178567
+Pimlico,Victoria,4,1,529668,178345
+Ravenscourt Park,District,5,3,522538,178718
+Stamford Brook,District,6,3,521898,178776
+Temple,District,25,1,530997,180802
+Turnham Green,District,7,3,521267,178796
+Turnham Green,District,1,4,521267,178796
+Turnham Green,District,1,5,521267,178796
+West Kensington,District,2,3,524615,178363
+Shepherd's Bush,Central,19,4,523198,180005
+Shepherd's Bush Market,Circle,8,2,523198,180005
+Shepherd's Bush Market,Hammersmith & City,3,1,523198,180005
+Sloane Square,District,30,1,528080,178649
+Stockwell,Northern,10,1,530469,176471
+Stockwell,Victoria,2,1,530469,176471
+Westminster,District,27,1,530254,179683
+Westminster,Jubilee,17,1,530254,179683
+Gloucester Road,District,32,1,526235,178820
+Gloucester Road,Piccadilly,23,1,526235,178820
+South Kensington,District,31,1,526865,178809
+South Kensington,Piccadilly,22,1,526865,178809
+West Brompton,District,2,2,525383,178022
+White City,Central,20,4,523323,180722
+Blackfriars,District,24,1,531696,180878
+Earl's Court,District,33,1,525509,178531
+Earl's Court,District,1,6,525509,178531
+Earl's Court,District,1,7,525509,178531
+Earl's Court,District,1,2,525509,178531
+Earl's Court,District,1,3,525509,178531
+Earl's Court,Piccadilly,24,1,525509,178531
+Kew Gardens,District,3,4,519181,176735
+Latimer Road,Hammersmith & City,5,1,523768,180907
+Barking,District,9,1,544407,184335
+Knightsbridge,Piccadilly,21,1,527775,179672
+Plaistow,District,12,1,540060,183297
+Chiswick Park,District,2,5,520351,178684
+Custom House,Docklands Light Railway,3,7,540812,180906
+Dagenham East,District,5,1,550287,185025
+Gunnersbury,District,2,4,519842,178393
+Stepney Green,District,17,1,535630,182141
+Becontree,District,7,1,547632,184521
+Cannon Street,District,22,1,532592,180895
+Cutty Sark,Docklands Light Railway,9,5,538222,177736
+Dagenham Heathway,District,6,1,549034,184711
+East Ham,District,10,1,542371,184219
+Farringdon,Metropolitan,5,1,531569,181871
+Seven Sisters,Victoria,13,1,533644,188926
+Tottenham Hale,Victoria,14,1,534476,189470
+Upton Park,District,11,1,541259,183777
+Blackhorse Road,Victoria,15,1,535816,189384
+Bow Road,District,15,1,537117,182725
+Charing Cross,Bakerloo,5,1,530237,180518
+Charing Cross,Northern,4,3,530237,180518
+Colliers Wood,Northern,3,1,526813,170359
+East Acton,Central,21,4,521697,181195
+Mile End,Central,4,4,536526,182519
+Mile End,District,16,1,536526,182519
+Mile End,Hammersmith & City,22,1,536526,182519
+Redbridge,Central,10,2,541835,188364
+Upney,District,8,1,545847,184252
+Whitechapel,District,18,1,534699,181843
+Clapham North,Northern,9,1,530030,175645
+High Street Kensington,District,2,7,525557,179519
+Aldgate East,District,19,1,533858,181351
+Aldgate East,Hammersmith & City,19,1,533858,181351
+Bank,Central,7,4,532710,181106
+Bank,Northern,5,2,532710,181106
+Bank,Waterloo & City,2,1,532710,181106
+Bethnal Green,Central,5,4,534992,182712
+Brixton,Victoria,1,1,531071,175420
+Holland Park,Central,18,4,524621,180237
+Ladbroke Grove,Hammersmith & City,6,1,524238,181324
+Liverpool Street,Central,6,4,533111,181567
+Liverpool Street,Metropolitan,2,1,533111,181567
+Mansion House,District,23,1,532348,180954
+Moorgate,Metropolitan,3,1,532689,181669
+Moorgate,Northern,6,2,532689,181669
+South Wimbledon,Northern,2,1,525828,170024
+Tower Hill,District,20,1,533591,180769
+Monument,Circle,27,1,532708,181111
+Monument,District,21,1,532708,181111
+Bromley-by-Bow,District,14,1,538036,182524
+Leyton,Central,2,4,538359,186057
+Upminster Bridge,District,2,1,555084,186798
+Aldgate,Circle,2,1,533630,181238
+Aldgate,Metropolitan,1,1,533630,181238
+Hyde Park Corner,Piccadilly,20,1,528310,179820
+Tooting Broadway,Northern,4,1,527463,171417
+East Putney,District,6,2,524387,174832
+King's Cross St. Pancras,Metropolitan,6,1,530237,182944
+King's Cross St. Pancras,Northern,9,2,530237,182944
+King's Cross St. Pancras,Piccadilly,13,1,530237,182944
+King's Cross St. Pancras,Victoria,10,1,530237,182944
+Old Street,Northern,7,2,532769,182476
+St. Paul's,Central,8,4,532105,181257
+Barbican,Metropolitan,4,1,532080,181851
+Elm Park,District,4,1,552577,185726
+Green Park,Jubilee,16,1,528981,180292
+Green Park,Piccadilly,19,1,528981,180292
+Green Park,Victoria,6,1,528981,180292
+Lancaster Gate,Central,15,4,526711,180788
+Morden,Northern,1,1,525668,168580
+Newbury Park,Central,8,2,544950,188371
+Piccadilly Circus,Bakerloo,6,1,529591,180661
+Piccadilly Circus,Piccadilly,18,1,529591,180661
+Chancery Lane,Central,9,4,531117,181601
+Hounslow Central,Piccadilly,7,2,513525,175944
+Hounslow East,Piccadilly,6,2,514230,176192
+Leicester Square,Northern,5,3,529988,180804
+Leicester Square,Piccadilly,17,1,529988,180804
+Perivale,Central,3,6,516349,183297
+Acton Town,District,3,5,519461,179603
+Acton Town,Piccadilly,28,1,519461,179603
+Acton Town,Piccadilly,1,2,519461,179603
+Acton Town,Piccadilly,1,6,519461,179603
+Clapham Common,Northern,8,1,529428,175283
+Turnpike Lane,Piccadilly,7,1,531525,189643
+Bond Street,Central,13,4,528516,181054
+Bond Street,Jubilee,15,1,528516,181054
+Greenford,Central,4,6,514768,183896
+Hatton Cross,Piccadilly,9,2,509612,175361
+Hatton Cross,Piccadilly,1,3,509612,175361
+Hatton Cross,Piccadilly,3,4,509612,175361
+Snaresbrook,Central,3,3,540163,188821
+Covent Garden,Piccadilly,16,1,530266,180999
+Heathrow Terminal 4,Piccadilly,2,4,508058,174431
+"Heathrow Terminals 1, 2, 3",Piccadilly,2,3,507585,175830
+"Heathrow Terminals 1, 2, 3",Piccadilly,1,4,507585,175830
+"Heathrow Terminals 1, 2, 3",Piccadilly,1,5,507585,175830
+Holborn,Central,10,4,530541,181510
+Holborn,Piccadilly,15,1,530541,181510
+Hounslow West,Piccadilly,8,2,512213,176132
+Russell Square,Piccadilly,14,1,530227,182111
+Southfields,District,7,2,524735,173296
+Wimbledon,District,9,2,524810,170678
+Wimbledon Park,District,8,2,525246,172144
+Leytonstone,Central,12,2,539282,187390
+Leytonstone,Central,4,3,539282,187390
+Leytonstone,Central,1,4,539282,187390
+Hornchurch,District,3,1,553939,186235
+Mornington Crescent,Northern,2,4,529187,183342
+Northfields,Piccadilly,3,2,517117,179162
+South Ealing,Piccadilly,2,2,517607,179406
+Stonebridge Park,Bakerloo,20,1,519690,184190
+Walthamstow Central,Victoria,16,1,537288,188979
+Arsenal,Piccadilly,10,1,531411,186102
+Barkingside,Central,7,2,544791,189503
+Bayswater,District,4,7,525835,180812
+Boston Manor,Piccadilly,4,2,516390,178747
+Euston,Northern,10,2,529588,182727
+Euston,Northern,9,3,529588,182727
+Euston,Northern,1,4,529588,182727
+Euston,Northern,1,5,529588,182727
+Euston,Victoria,9,1,529588,182727
+Euston Square,Hammersmith & City,13,1,529420,182385
+Euston Square,Metropolitan,7,1,529420,182385
+Gants Hill,Central,9,2,543268,188425
+Paddington,Bakerloo,12,1,526704,181176
+Paddington,District,5,7,526704,181176
+Paddington,Hammersmith & City,9,1,526704,181176
+Tottenham Court Road,Central,11,4,529791,181354
+Tottenham Court Road,Northern,6,3,529791,181354
+Wood Green,Piccadilly,6,1,531031,190429
+Balham,Northern,6,1,528445,173210
+Baker Street,Bakerloo,9,1,527965,182070
+Baker Street,Hammersmith & City,11,1,527965,182070
+Baker Street,Jubilee,14,1,527965,182070
+Baker Street,Metropolitan,9,1,527965,182070
+Camden Town,Northern,3,4,528903,183913
+Camden Town,Northern,2,5,528903,183913
+Camden Town,Northern,1,6,528903,183913
+Camden Town,Northern,1,9,528903,183913
+Goodge Street,Northern,7,3,529516,181816
+Kilburn Park,Bakerloo,15,1,525361,183342
+Loughton,Central,4,1,542316,195635
+Marble Arch,Central,14,4,527885,181009
+Oxford Circus,Bakerloo,7,1,529038,181214
+Oxford Circus,Central,12,4,529038,181214
+Oxford Circus,Victoria,7,1,529038,181214
+Queensway,Central,16,4,525882,180607
+Royal Oak,Hammersmith & City,8,1,525803,181566
+Warren Street,Northern,8,3,529254,182264
+Warren Street,Victoria,8,1,529254,182264
+Warwick Avenue,Bakerloo,13,1,526107,182047
+Clapham South,Northern,7,1,528782,174251
+Notting Hill Gate,Central,17,4,525254,180445
+Notting Hill Gate,Circle,14,1,525254,180445
+Regent's Park,Bakerloo,8,1,528661,182137
+South Woodford,Central,2,3,540533,190044
+Tooting Bec,Northern,5,1,528015,172357
+Upminster,District,1,1,556145,186846
+Westbourne Park,Hammersmith & City,7,1,524920,181756
+Ealing Common,District,4,5,518886,180410
+Great Portland Street,Metropolitan,8,1,528862,182166
+Holloway Road,Piccadilly,11,1,530931,185450
+Marylebone,Bakerloo,10,1,527537,181966
+Wanstead,Central,11,2,540682,188245
+Edgware Road Circle,Circle,11,1,527227,181702
+Edgware Road Circle,Circle,1,2,527227,181702
+Edgware Road Circle,District,6,7,527227,181702
+Edgware Road Circle,Hammersmith & City,10,1,527227,181702
+Fairlop,Central,6,2,544927,190608
+Osterley,Piccadilly,5,2,514537,177062
+Maida Vale,Bakerloo,14,1,525954,182766
+Roding Valley,Central,2,2,541600,192899
+Chalk Farm,Northern,2,9,528127,184414
+Edgware Road Bakerloo,Bakerloo,11,1,527055,181727
+Finsbury Park,Piccadilly,9,1,531342,186757
+Finsbury Park,Victoria,12,1,531342,186757
+Woodford,Central,6,1,540951,191759
+Woodford,Central,1,2,540951,191759
+Woodford,Central,1,3,540951,191759
+Alperton,Piccadilly,5,6,518028,183792
+Ealing Broadway,Central,3,5,517955,180922
+Ealing Broadway,District,5,5,517955,180922
+North Acton,Central,22,4,520831,181930
+North Acton,Central,1,5,520831,181930
+North Acton,Central,1,6,520831,181930
+West Acton,Central,2,5,519370,181283
+Angel,Northern,8,2,531484,183210
+Highbury & Islington,Victoria,11,1,531571,184741
+Caledonian Road,Piccadilly,12,1,530570,184959
+Hainault,Central,5,2,545053,191507
+Hillingdon,Metropolitan,8,2,507565,185008
+Hillingdon,Piccadilly,14,6,507565,185008
+North Ealing,Piccadilly,3,6,518815,181236
+Cyprus,Docklands Light Railway,7,7,543302,180892
+Debden,Central,3,1,544278,196127
+Deptford Bridge,Docklands Light Railway,11,5,537501,176892
+Dollis Hill,Jubilee,7,1,522207,185138
+Kentish Town,Northern,2,6,529029,185129
+Ruislip Gardens,Central,7,6,510245,185830
+South Ruislip,Central,6,6,511113,185396
+Harlesden,Bakerloo,19,1,520952,183360
+Manor House,Piccadilly,8,1,532072,187483
+Neasden,Jubilee,6,1,521440,185349
+Queen's Park,Bakerloo,16,1,524619,183216
+Buckhurst Hill,Central,5,1,541770,193950
+Hanger Lane,Central,2,6,518505,182614
+Uxbridge,Metropolitan,9,2,505626,184164
+Willesden Junction,Bakerloo,18,1,521879,182937
+Wembley Park,Jubilee,5,1,519373,186334
+Kensal Green,Bakerloo,17,1,523241,182777
+Arnos Grove,Piccadilly,4,1,529323,192485
+Ickenham,Metropolitan,7,2,508093,185939
+Kingsbury,Jubilee,4,1,519348,188725
+Northolt,Central,5,6,513227,184512
+South Kenton,Bakerloo,23,1,517321,187055
+Chigwell,Central,3,2,543721,193043
+Ruislip Manor,Metropolitan,5,2,510124,187229
+Tufnell Park,Northern,3,6,529187,185841
+Kilburn,Jubilee,9,1,524589,184637
+Preston Road,Metropolitan,12,1,518240,187284
+Wembley Central,Bakerloo,21,1,518180,185090
+Ruislip,Metropolitan,6,2,509496,187022
+Bounds Green,Piccadilly,5,1,529993,191472
+Park Royal,Piccadilly,4,6,519122,182283
+Brent Cross,Northern,6,9,523896,187949
+North Wembley,Bakerloo,22,1,517648,186208
+Queensbury,Jubilee,3,1,518839,189781
+Sudbury Town,Piccadilly,6,6,516893,184888
+Colindale,Northern,8,9,521305,189944
+St. John's Wood,Jubilee,13,1,526735,183320
+Burnt Oak,Northern,9,9,520312,190743
+North Harrow,Metropolitan,2,3,513568,188597
+West Ruislip,Central,8,6,508362,186784
+Finchley Road,Jubilee,11,1,526262,184699
+Harrow & Wealdstone,Bakerloo,25,1,515419,189464
+Eastcote,Metropolitan,4,2,511190,187621
+West Harrow,Metropolitan,2,2,514225,188053
+Pinner,Metropolitan,3,3,512253,189465
+Theydon Bois,Central,2,1,545528,199087
+Grange Hill,Central,4,2,544955,192575
+Rayners Lane,Metropolitan,3,2,512984,187491
+Archway,Northern,4,6,529357,186820
+Kenton,Bakerloo,24,1,516697,188333
+Northwick Park,Metropolitan,13,1,516633,187976
+West Hampstead,Jubilee,10,1,525552,184641
+Willesden Green,Jubilee,8,1,523350,184877
+Moor Park,Metropolitan,6,3,508581,193487
+Moor Park,Metropolitan,1,4,508581,193487
+Moor Park,Metropolitan,1,5,508581,193487
+Swiss Cottage,Jubilee,12,1,526670,184292
+Rickmansworth,Metropolitan,2,5,505715,194599
+Edgware,Northern,10,9,519537,191942
+Sudbury Hill,Piccadilly,7,6,515440,185546
+South Harrow,Piccadilly,8,6,514312,186375
+Hendon Central,Northern,7,9,522975,188649
+Canons Park,Jubilee,2,1,518190,191258
+Mill Hill East,Northern,2,7,524057,191454
+Belsize Park,Northern,3,9,527380,185101
+Harrow on the Hill,Metropolitan,14,1,515328,188028
+Harrow on the Hill,Metropolitan,1,2,515328,188028
+Harrow on the Hill,Metropolitan,1,3,515328,188028
+Golders Green,Northern,5,9,525257,187473
+Watford,Metropolitan,3,4,509579,196590
+Northwood Hills,Metropolitan,4,3,510269,190271
+Southgate,Piccadilly,3,1,529676,194272
+Crossharbour & London Arena,Docklands Light Railway,6,5,537919,179286
+Croxley,Metropolitan,2,4,507913,195399
+Totteridge & Whetstone,Northern,4,8,526118,193947
+Woodside Park,Northern,3,8,525725,192558
+Northwood,Metropolitan,5,3,509235,191435
+West Finchley,Northern,2,8,525537,191627
+Epping,Central,1,1,546200,201545
+East Finchley,Northern,6,6,527243,189197
+Stanmore,Jubilee,1,1,517574,192563
+Finchley Central,Northern,7,6,525285,190673
+Finchley Central,Northern,1,7,525285,190673
+Finchley Central,Northern,1,8,525285,190673
+Oakwood,Piccadilly,2,1,529350,195962
+Chorleywood,Metropolitan,3,5,502594,196087
+Cockfosters,Piccadilly,1,1,528109,196387
+Highgate,Northern,5,6,528524,188153
+Hampstead,Northern,4,9,526393,185773
+Chesham,Metropolitan,2,6,496063,201612
+High Barnet,Northern,5,8,524989,196188
+Chalfont & Latimer,Metropolitan,4,5,499647,197564
+Chalfont & Latimer,Metropolitan,1,6,499647,197564
+Chalfont & Latimer,Metropolitan,1,7,499647,197564
+Amersham,Metropolitan,2,7,496387,198182
+Wood Lane,Hammersmith & City,4,1,523332.531220599,180480.267469195
+Wood Lane,Circle,7,2,523332.531220599,180480.267469195
+Heathrow Terminal 5,Piccadilly,2,5,505112.655081914,175898.82999908

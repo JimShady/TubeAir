@@ -1,0 +1,123 @@
+﻿-- South to North (High Barnet branch);
+--In the passenger cabin was PM2.5 DIana + AE51-S5-836-1309
+--In the driver cabin was PM2.5 Andrew + AE51-S4-521-1204 + PNum
+-- Waited on platform at Morden
+INSERT INTO tube_diary VALUES('Northern', 'Morden', '2014-12-16 08:07:00', '2014-12-16 08:09:00', 'platform', 'floor', 1);
+-- Started tube journey North
+INSERT INTO tube_diary VALUES('Northern', 'Morden', '2014-12-16 08:10:00', '2014-12-16 08:10:00', 'tube', 'floor', 2);
+INSERT INTO tube_diary VALUES('Northern', 'South Wimbledon', '2014-12-16 08:13:00', '2014-12-16 08:13:00', 'tube', 'floor', 3);
+INSERT INTO tube_diary VALUES('Northern', 'Colliers Wood', '2014-12-16 08:14:00', '2014-12-16 08:14:00', 'tube', 'floor', 4);
+INSERT INTO tube_diary VALUES('Northern', 'Tooting Broadway', '2014-12-16 08:16:00', '2014-12-16 08:16:00', 'tube', 'floor', 5);
+INSERT INTO tube_diary VALUES('Northern', 'Tooting Bec', '2014-12-16 08:19:00', '2014-12-16 08:19:00', 'tube', 'floor', 6);
+INSERT INTO tube_diary VALUES('Northern', 'Balham', '2014-12-16 08:21:00', '2014-12-16 08:21:00', 'tube', 'floor', 7);
+INSERT INTO tube_diary VALUES('Northern', 'Clapham South', '2014-12-16 08:23:00', '2014-12-16 08:23:00', 'tube', 'floor', 8);
+INSERT INTO tube_diary VALUES('Northern', 'Clapham Common', '2014-12-16 08:28:00', '2014-12-16 08:28:00', 'tube', 'floor', 9);
+INSERT INTO tube_diary VALUES('Northern', 'Clapham North', '2014-12-16 08:30:00', '2014-12-16 08:30:00', 'tube', 'floor', 10);
+INSERT INTO tube_diary VALUES('Northern', 'Stockwell', '2014-12-16 08:32:00', '2014-12-16 08:32:00', 'tube', 'floor', 11);
+INSERT INTO tube_diary VALUES('Northern', 'Oval', '2014-12-16 08:34:00', '2014-12-16 08:34:00', 'tube', 'floor', 12);
+INSERT INTO tube_diary VALUES('Northern', 'Kennington', '2014-12-16 08:36:00', '2014-12-16 08:36:00', 'tube', 'floor', 13);
+INSERT INTO tube_diary VALUES('Northern', 'Waterloo', '2014-12-16 08:39:00', '2014-12-16 08:39:00', 'tube', 'floor', 14);
+INSERT INTO tube_diary VALUES('Northern', 'Embankment', '2014-12-16 08:41:00', '2014-12-16 08:41:00', 'tube', 'floor', 15);
+INSERT INTO tube_diary VALUES('Northern', 'Charing Cross', '2014-12-16 08:43:00', '2014-12-16 08:43:00', 'tube', 'floor', 16);
+INSERT INTO tube_diary VALUES('Northern', 'Leicester Square', '2014-12-16 08:45:00', '2014-12-16 08:45:00', 'tube', 'floor', 17);
+INSERT INTO tube_diary VALUES('Northern', 'Tottenham Court Road', '2014-12-16 08:46:00', '2014-12-16 08:46:00', 'tube', 'floor', 18);
+INSERT INTO tube_diary VALUES('Northern', 'Goodge Street', '2014-12-16 08:47:00', '2014-12-16 08:47:00', 'tube', 'floor', 19);
+INSERT INTO tube_diary VALUES('Northern', 'Warren Street', '2014-12-16 08:49:00', '2014-12-16 08:49:00', 'tube', 'floor', 20);
+INSERT INTO tube_diary VALUES('Northern', 'Euston', '2014-12-16 08:51:00', '2014-12-16 08:51:00', 'tube', 'floor', 21);
+INSERT INTO tube_diary VALUES('Northern', 'Mornington Crescent', '2014-12-16 08:52:00', '2014-12-16 08:52:00', 'tube', 'floor', 22);
+INSERT INTO tube_diary VALUES('Northern', 'Camden Town', '2014-12-16 08:54:00', '2014-12-16 08:54:00', 'tube', 'floor', 23);
+INSERT INTO tube_diary VALUES('Northern', 'Kentish Town', '2014-12-16 08:56:00', '2014-12-16 08:56:00', 'tube', 'floor', 24);
+INSERT INTO tube_diary VALUES('Northern', 'Tufnell Park', '2014-12-16 08:58:00', '2014-12-16 08:58:00', 'tube', 'floor', 25);
+INSERT INTO tube_diary VALUES('Northern', 'Archway', '2014-12-16 08:59:00', '2014-12-16 08:59:00', 'tube', 'floor', 26);
+INSERT INTO tube_diary VALUES('Northern', 'Highgate', '2014-12-16 09:02:00', '2014-12-16 09:02:00', 'tube', 'floor', 27);
+INSERT INTO tube_diary VALUES('Northern', 'East Finchley', '2014-12-16 09:04:00', '2014-12-16 09:04:00', 'tube', 'floor', 28);
+INSERT INTO tube_diary VALUES('Northern', 'Finchley Central', '2014-12-16 09:08:00', '2014-12-16 09:08:00', 'tube', 'floor', 29);
+INSERT INTO tube_diary VALUES('Northern', 'West Finchley', '2014-12-16 09:11:00', '2014-12-16 09:11:00', 'tube', 'floor', 30);
+INSERT INTO tube_diary VALUES('Northern', 'Woodside Park', '2014-12-16 09:13:00', '2014-12-16 09:13:00', 'tube', 'floor', 31);
+INSERT INTO tube_diary VALUES('Northern', 'Totteridge & Whetstone', '2014-12-16 09:15:00', '2014-12-16 09:15:00', 'tube', 'floor', 32);
+INSERT INTO tube_diary VALUES('Northern', 'High Barnet', '2014-12-16 09:18:00', '2014-12-16 09:18:00', 'tube', 'floor',33);
+-- Got off tube. Waited on platforms for next tube going South again.
+INSERT INTO tube_diary VALUES('Northern', 'High Barnet', '2014-12-16 09:19:00', '2014-12-16 09:27:00', 'platform', 'floor', 34);
+-- Started journey South
+INSERT INTO tube_diary VALUES('Northern', 'High Barnet', '2014-12-16 09:28:00', '2014-12-16 09:28:00', 'tube', 'shelf', 35);
+INSERT INTO tube_diary VALUES('Northern', 'Totteridge & Whetstone', '2014-12-16 09:31:00', '2014-12-16 09:31:00', 'tube', 'shelf', 36);
+INSERT INTO tube_diary VALUES('Northern', 'Woodside Park', '2014-12-16 09:34:00', '2014-12-16 09:34:00', 'tube', 'shelf', 37);
+INSERT INTO tube_diary VALUES('Northern', 'West Finchley', '2014-12-16 09:35:00', '2014-12-16 09:35:00', 'tube', 'shelf', 38);
+INSERT INTO tube_diary VALUES('Northern', 'Finchley Central', '2014-12-16 09:37:00', '2014-12-16 09:37:00', 'tube', 'shelf', 39);
+INSERT INTO tube_diary VALUES('Northern', 'East Finchley', '2014-12-16 09:41:00', '2014-12-16 09:41:00', 'tube', 'shelf', 40);
+INSERT INTO tube_diary VALUES('Northern', 'Highgate', '2014-12-16 09:43:00', '2014-12-16 09:43:00', 'tube', 'shelf', 41);
+INSERT INTO tube_diary VALUES('Northern', 'Archway', '2014-12-16 09:46:00', '2014-12-16 09:46:00', 'tube', 'shelf', 42);
+INSERT INTO tube_diary VALUES('Northern', 'Tufnell Park', '2014-12-16 09:47:00', '2014-12-16 09:47:00', 'tube', 'shelf', 43);
+INSERT INTO tube_diary VALUES('Northern', 'Kentish Town', '2014-12-16 09:49:00', '2014-12-16 09:49:00', 'tube', 'shelf', 44);
+INSERT INTO tube_diary VALUES('Northern', 'Camden Town', '2014-12-16 09:51:00', '2014-12-16 09:51:00', 'tube', 'shelf', 45);
+INSERT INTO tube_diary VALUES('Northern', 'Mornington Crescent', '2014-12-16 09:53:00', '2014-12-16 09:53:00', 'tube', 'shelf', 46);
+INSERT INTO tube_diary VALUES('Northern', 'Euston', '2014-12-16 09:55:00', '2014-12-16 09:55:00', 'tube', 'shelf', 47);
+INSERT INTO tube_diary VALUES('Northern', 'Warren Street', '2014-12-16 09:57:00', '2014-12-16 09:57:00', 'tube', 'shelf', 48);
+INSERT INTO tube_diary VALUES('Northern', 'Goodge Street', '2014-12-16 09:58:00', '2014-12-16 09:58:00', 'tube', 'shelf', 49);
+INSERT INTO tube_diary VALUES('Northern', 'Tottenham Court Road', '2014-12-16 09:59:00', '2014-12-16 09:59:00', 'tube', 'shelf', 50);
+INSERT INTO tube_diary VALUES('Northern', 'Leicester Square', '2014-12-16 10:00:00', '2014-12-16 10:00:00', 'tube', 'shelf', 51);
+INSERT INTO tube_diary VALUES('Northern', 'Charing Cross', '2014-12-16 10:02:00', '2014-12-16 10:02:00', 'tube', 'shelf', 52);
+INSERT INTO tube_diary VALUES('Northern', 'Embankment', '2014-12-16 10:03:00', '2014-12-16 10:03:00', 'tube', 'shelf', 53);
+INSERT INTO tube_diary VALUES('Northern', 'Waterloo', '2014-12-16 10:04:00', '2014-12-16 10:04:00', 'tube', 'shelf', 54);
+INSERT INTO tube_diary VALUES('Northern', 'Kennington', '2014-12-16 10:07:00', '2014-12-16 10:07:00', 'tube', 'shelf', 55);
+-- In the loop at Kennington turning the train around
+INSERT INTO tube_diary VALUES('Northern', 'Kennington', '2014-12-16 10:08:00', '2014-12-16 10:14:00', 'sidings', 'shelf', 56);
+-- Started heading North again from Kennington via Charing Cross to High Barnet
+INSERT INTO tube_diary VALUES('Northern', 'Kennington', '2014-12-16 10:15:00', '2014-12-16 10:15:00', 'tube', 'shelf', 57);
+INSERT INTO tube_diary VALUES('Northern', 'Waterloo', '2014-12-16 10:17:00', '2014-12-16 10:17:00', 'tube', 'shelf', 58);
+INSERT INTO tube_diary VALUES('Northern', 'Embankment', '2014-12-16 10:19:00', '2014-12-16 10:19:00', 'tube', 'shelf', 59);
+INSERT INTO tube_diary VALUES('Northern', 'Charing Cross', '2014-12-16 10:20:00', '2014-12-16 10:20:00', 'tube', 'shelf', 60);
+INSERT INTO tube_diary VALUES('Northern', 'Leicester Square', '2014-12-16 10:22:00', '2014-12-16 10:22:00', 'tube', 'shelf', 61);
+INSERT INTO tube_diary VALUES('Northern', 'Tottenham Court Road', '2014-12-16 10:23:00', '2014-12-16 10:23:00', 'tube', 'shelf', 62);
+INSERT INTO tube_diary VALUES('Northern', 'Goodge Street', '2014-12-16 10:25:00', '2014-12-16 10:25:00', 'tube', 'shelf', 63);
+INSERT INTO tube_diary VALUES('Northern', 'Warren Street', '2014-12-16 10:27:00', '2014-12-16 10:27:00', 'tube', 'shelf', 64);
+INSERT INTO tube_diary VALUES('Northern', 'Euston', '2014-12-16 10:28:00', '2014-12-16 10:28:00', 'tube', 'shelf', 65);
+INSERT INTO tube_diary VALUES('Northern', 'Mornington Crescent', '2014-12-16 10:30:00', '2014-12-16 10:30:00', 'tube', 'shelf', 66);
+INSERT INTO tube_diary VALUES('Northern', 'Camden Town', '2014-12-16 10:32:00', '2014-12-16 10:32:00', 'tube', 'shelf', 67);
+INSERT INTO tube_diary VALUES('Northern', 'Kentish Town', '2014-12-16 10:34:00', '2014-12-16 10:34:00', 'tube', 'shelf', 68);
+INSERT INTO tube_diary VALUES('Northern', 'Tufnell Park', '2014-12-16 10:36:00', '2014-12-16 10:36:00', 'tube', 'shelf', 69);
+INSERT INTO tube_diary VALUES('Northern', 'Archway', '2014-12-16 10:38:00', '2014-12-16 10:38:00', 'tube', 'shelf', 70);
+INSERT INTO tube_diary VALUES('Northern', 'Highgate', '2014-12-16 10:40:00', '2014-12-16 10:40:00', 'tube', 'shelf', 71);
+INSERT INTO tube_diary VALUES('Northern', 'East Finchley', '2014-12-16 10:43:00', '2014-12-16 10:43:00', 'tube', 'shelf', 72);
+INSERT INTO tube_diary VALUES('Northern', 'Finchley Central', '2014-12-16 10:47:00', '2014-12-16 10:47:00', 'tube', 'shelf', 73);
+INSERT INTO tube_diary VALUES('Northern', 'West Finchley', '2014-12-16 10:52:00', '2014-12-16 10:52:00', 'tube', 'shelf', 74);
+INSERT INTO tube_diary VALUES('Northern', 'Woodside Park', '2014-12-16 10:54:00', '2014-12-16 10:54:00', 'tube', 'shelf', 75);
+INSERT INTO tube_diary VALUES('Northern', 'Totteridge & Whetstone', '2014-12-16 10:57:00', '2014-12-16 10:57:00', 'tube', 'shelf', 76);
+INSERT INTO tube_diary VALUES('Northern', 'High Barnet', '2014-12-16 11:00:00', '2014-12-16 11:00:00', 'tube', 'shelf', 77);
+-- Got off tube. Waited on platforms for next tube going South again.
+INSERT INTO tube_diary VALUES('Northern', 'High Barnet', '2014-12-16 11:01:00', '2014-12-16 11:04:00', 'platform', 'floor', 78);
+-- Started journey South
+INSERT INTO tube_diary VALUES('Northern', 'High Barnet', '2014-12-16 11:05:00', '2014-12-16 11:05:00', 'tube', 'floor', 79);
+INSERT INTO tube_diary VALUES('Northern', 'Totteridge & Whetstone', '2014-12-16 11:08:00', '2014-12-16 11:08:00', 'tube', 'floor', 80);
+INSERT INTO tube_diary VALUES('Northern', 'Woodside Park', '2014-12-16 11:10:00', '2014-12-16 11:10:00', 'tube', 'floor', 81);
+INSERT INTO tube_diary VALUES('Northern', 'West Finchley', '2014-12-16 11:12:00', '2014-12-16 11:12:00', 'tube', 'floor', 82);
+INSERT INTO tube_diary VALUES('Northern', 'Finchley Central', '2014-12-16 11:15:00', '2014-12-16 11:15:00', 'tube', 'floor', 83);
+INSERT INTO tube_diary VALUES('Northern', 'East Finchley', '2014-12-16 11:18:00', '2014-12-16 11:18:00', 'tube', 'floor', 84);
+INSERT INTO tube_diary VALUES('Northern', 'Highgate', '2014-12-16 11:21:00', '2014-12-16 11:21:00', 'tube', 'floor', 85);
+INSERT INTO tube_diary VALUES('Northern', 'Archway', '2014-12-16 11:24:00', '2014-12-16 11:24:00', 'tube', 'floor', 86);
+INSERT INTO tube_diary VALUES('Northern', 'Tufnell Park', '2014-12-16 11:26:00', '2014-12-16 11:26:00', 'tube', 'floor', 87);
+INSERT INTO tube_diary VALUES('Northern', 'Kentish Town', '2014-12-16 11:28:00', '2014-12-16 11:28:00', 'tube', 'floor', 88);
+INSERT INTO tube_diary VALUES('Northern', 'Camden Town', '2014-12-16 11:30:00', '2014-12-16 11:30:00', 'tube', 'floor', 89);
+INSERT INTO tube_diary VALUES('Northern', 'Euston', '2014-12-16 11:33:00', '2014-12-16 11:33:00', 'tube', 'floor', 90);
+INSERT INTO tube_diary VALUES('Northern', 'King''s Cross St. Pancras', '2014-12-16 11:35:00', '2014-12-16 11:35:00', 'tube', 'floor', 91);
+INSERT INTO tube_diary VALUES('Northern', 'Angel', '2014-12-16 11:38:00', '2014-12-16 11:38:00', 'tube', 'floor', 92);
+INSERT INTO tube_diary VALUES('Northern', 'Old Street', '2014-12-16 11:40:00', '2014-12-16 11:40:00', 'tube', 'floor', 93);
+INSERT INTO tube_diary VALUES('Northern', 'Moorgate', '2014-12-16 11:42:00', '2014-12-16 11:42:00', 'tube', 'floor', 94);
+INSERT INTO tube_diary VALUES('Northern', 'Bank', '2014-12-16 11:44:00', '2014-12-16 11:44:00', 'tube', 'floor', 95);
+INSERT INTO tube_diary VALUES('Northern', 'London Bridge', '2014-12-16 11:46:00', '2014-12-16 11:46:00', 'tube', 'floor', 96);
+INSERT INTO tube_diary VALUES('Northern', 'Borough', '2014-12-16 11:48:00', '2014-12-16 11:48:00', 'tube', 'floor', 97);
+INSERT INTO tube_diary VALUES('Northern', 'Elephant & Castle', '2014-12-16 11:50:00', '2014-12-16 11:50:00', 'tube', 'floor', 98);
+INSERT INTO tube_diary VALUES('Northern', 'Kennington', '2014-12-16 11:52:00', '2014-12-16 11:52:00', 'tube', 'shelf', 99);
+INSERT INTO tube_diary VALUES('Northern', 'Oval', '2014-12-16 11:53:00', '2014-12-16 11:53:00', 'tube', 'shelf', 100);
+INSERT INTO tube_diary VALUES('Northern', 'Stockwell', '2014-12-16 11:55:00', '2014-12-16 11:55:00', 'tube', 'shelf', 101);
+INSERT INTO tube_diary VALUES('Northern', 'Clapham North', '2014-12-16 11:57:00', '2014-12-16 11:57:00', 'tube', 'shelf', 102);
+INSERT INTO tube_diary VALUES('Northern', 'Clapham Common', '2014-12-16 11:59:00', '2014-12-16 11:59:00', 'tube', 'shelf', 103);
+INSERT INTO tube_diary VALUES('Northern', 'Clapham South', '2014-12-16 12:01:00', '2014-12-16 12:01:00', 'tube', 'shelf', 104);
+INSERT INTO tube_diary VALUES('Northern', 'Balham', '2014-12-16 12:03:00', '2014-12-16 12:03:00', 'tube', 'shelf', 105);
+INSERT INTO tube_diary VALUES('Northern', 'Tooting Bec', '2014-12-16 12:05:00', '2014-12-16 12:05:00', 'tube', 'shelf', 106);
+INSERT INTO tube_diary VALUES('Northern', 'Tooting Broadway', '2014-12-16 12:07:00', '2014-12-16 12:07:00', 'tube', 'shelf', 107);
+INSERT INTO tube_diary VALUES('Northern', 'Colliers Wood', '2014-12-16 12:09:00', '2014-12-16 12:09:00', 'tube', 'shelf', 108);
+INSERT INTO tube_diary VALUES('Northern', 'South Wimbledon', '2014-12-16 12:11:00', '2014-12-16 12:11:00', 'tube', 'shelf', 109);
+INSERT INTO tube_diary VALUES('Northern', 'Morden', '2014-12-16 12:13:00', '2014-12-16 12:13:00', 'tube', 'shelf', 110);
+--
+INSERT INTO tube_diary VALUES('Northern', 'Morden', '2014-12-16 12:14:00', '2014-12-16 12:16:00', 'platform', 'floor', 111);
