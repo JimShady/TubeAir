@@ -12,7 +12,7 @@ library("gdata")
 library(gridExtra)
 
 drv = dbDriver("PostgreSQL")
-con = dbConnect(drv, dbname="tube_monitoring", user="james", password="brianclough", host="10.0.4.240")
+con = dbConnect(drv, dbname="tube_air", user="james", password="brianclough", host="10.0.4.43")
 
 ## THIS IS VERY DRAFT> MOST OF THE CODE IS FROM ANOTGHER SCRIPT AND NEEDS RE-WRITING
 ## Get daily background averages for London from OpenAir
@@ -107,7 +107,7 @@ plot1 <- ggplot(tube_data[order(-tube_data$daily_passenger_entrances),][1:30,], 
         panel.grid.major = element_blank(),
         panel.grid.minor = element_blank(),
         axis.title.x = element_text(size = 10),
-        axis.text.x = element_text(size = 10, hjust = 1),
+        axis.text = element_text(size = 10, hjust = 1, colour='black'),
         plot.margin = margin(0,0,0,-0.25, "cm"),
         panel.border = element_blank(),
         axis.ticks.y = element_blank(),
@@ -125,7 +125,7 @@ plot1a <- ggplot(tube_data[order(-tube_data$daily_passenger_entrances),], aes(st
         panel.grid.major = element_blank(),
         panel.grid.minor = element_blank(),
         axis.title.x = element_text(size = 10),
-        axis.text.x = element_text(size = 10, hjust = 1),
+        axis.text = element_text(size = 10, hjust = 1, colour='black'),
         plot.margin = margin(0,0,0,-0.25, "cm"),
         panel.border = element_blank(),
         axis.ticks.y = element_blank(),
@@ -146,7 +146,7 @@ plot2 <- ggplot(tube_data[order(-tube_data$corrected_concentration),][1:30,], ae
         panel.grid.major = element_blank(),
         panel.grid.minor = element_blank(),
         axis.title.x = element_text(size = 10),
-        axis.text.x = element_text(size = 10, hjust = 1),
+        axis.text = element_text(size = 10, hjust = 1, colour='black'),
         plot.margin = margin(0,0,0,-0.25, "cm"),
         panel.border = element_blank(),
         axis.ticks.y = element_blank(),
@@ -164,7 +164,7 @@ plot2a <- ggplot(tube_data[order(-tube_data$corrected_concentration),], aes(stat
         panel.grid.major = element_blank(),
         panel.grid.minor = element_blank(),
         axis.title.x = element_text(size = 10),
-        axis.text.x = element_text(size = 10, hjust = 1),
+        axis.text = element_text(size = 10, hjust = 1, colour='black'),
         plot.margin = margin(0,0,0,-0.25, "cm"),
         panel.border = element_blank(),
         axis.ticks.y = element_blank(),
@@ -185,7 +185,7 @@ plot3 <- ggplot(tube_data[order(-tube_data$weighted_rank),][1:30,], aes(station_
         panel.grid.major = element_blank(),
         panel.grid.minor = element_blank(),
         axis.title.x = element_text(size = 10),
-        axis.text.x = element_text(size = 10, hjust = 1),
+        axis.text = element_text(size = 10, hjust = 1, colour='black'),
         plot.margin = margin(0,0,0,-0.25, "cm"),
         panel.border = element_blank(),
         axis.ticks.y = element_blank(),
@@ -203,7 +203,7 @@ plot3a <- ggplot(tube_data[order(-tube_data$weighted_rank),], aes(station_name))
         panel.grid.major = element_blank(),
         panel.grid.minor = element_blank(),
         axis.title.x = element_text(size = 10),
-        axis.text.x = element_text(size = 10, hjust = 1),
+        axis.text = element_text(size = 10, hjust = 1, colour='black'),
         plot.margin = margin(0,0,0,-0.25, "cm"),
         panel.border = element_blank(),
         axis.ticks.y = element_blank(),
@@ -221,10 +221,11 @@ g2 <- arrangeGrob(plot1a, plot2a, plot3a, ncol = 3,
                   right = "",
                   bottom = "")
 
-ggsave(g, file = "/home/james/mounts/James/PhD/10 - Tube Monitoring Chapter/Results/tube_pm_passenger_weighting.png", width = 310, height = 210, units = "mm")
-ggsave(g2, file = "/home/james/mounts/James/PhD/10 - Tube Monitoring Chapter/Results/full_tube_pm_passenger_weighting.png", width = 310, height = 830, units = "mm")
+ggsave(g, file = "../Results/tube_pm_passenger_weighting.pdf", width = 310, height = 210, units = "mm")
+ggsave(g, file = "../Results/tube_pm_passenger_weighting.png", width = 310, height = 210, units = "mm")
 
-#ggsave(g, file = "Z:\\PhD\\10 - Tube Monitoring Chapter\\Results\\tube_pm_passenger_weighting.png", width = 310, height = 210, units = "mm")
+ggsave(g2, file = "../Results/full_tube_pm_passenger_weighting.pdf", width = 310, height = 830, units = "mm")
+ggsave(g2, file = "../Results/full_tube_pm_passenger_weighting.png", width = 310, height = 830, units = "mm")
 
 write.csv(tube_data, 'website_ranking_data.csv')
 

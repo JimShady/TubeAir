@@ -59,37 +59,38 @@ colours_lines <- data.frame(line = c("Victoria","Piccadilly","Northern","Circle"
 
 tube_data$line <- factor(tube_data$line, levels = c("Victoria","Piccadilly","Northern","Circle","Jubilee","District","Bakerloo","Metropolitan","Docklands Light Railway","Central","Hammersmith & City"))
 
-setwd("Z:/James/PhD/10 - Tube Monitoring Chapter/Results")
+setwd("C:/Users/stwb3498/Documents/Github/TubeAir/Results")
 
 ##########
 ### Need to make a plot of just the lines I want
 line    <- colours_lines$line[5]
 colour  <- colours_lines$colour[5]
+
 plot <- ggplot(tube_data[tube_data$line == line,], aes(x=minutes, y=corrected_concentration)) +
   geom_line(colour = "black") +
-  geom_point(data = tube_data[tube_data$line == line & !is.na(tube_data$tube_diary_stop),], aes(x=minutes, y=corrected_concentration), size = 1) +
+  geom_point(data = tube_data[tube_data$line == line & !is.na(tube_data$tube_diary_stop),],
+             aes(x=minutes, y=corrected_concentration), size = 1) +
   geom_text(data = tube_data[tube_data$line == line & !is.na(tube_data$tube_diary_stop) & (
                                tube_data$minutes > 67 & tube_data$minutes < 84 |
                                  tube_data$minutes > 121 & tube_data$minutes < 131 |
                                  tube_data$minutes > 185 & tube_data$minutes < 198 |
                                  tube_data$minutes > 236 & tube_data$minutes < 245),],
-            aes(x=minutes, y=corrected_concentration, label = tube_diary_stop), colour = "black", angle = 30, hjust = 0, vjust = 0, size = 2, nudge_x = 2) +
+            aes(x=minutes, y=corrected_concentration, label = tube_diary_stop),
+            colour = "black", angle = 30, hjust = 0, vjust = 0, size = 4, nudge_x = 2,
+            check_overlap = TRUE) +
   theme_bw() +
   theme(panel.grid.major = element_blank(), 
         panel.grid.minor = element_blank(),
         axis.line = element_line(colour="black"),
-        axis.text=element_text(size=10, color="black"),
-        axis.title=element_text(size=10, color="black"),
-        plot.title=element_text(size=10, colour="black"),
+        axis.text=element_text(size=14, color="black"),
+        axis.title=element_text(size=14, color="black"),
+        plot.title=element_text(size=14, colour="black"),
         ) +
   #scale_x_continuous(breaks = seq(0,500, 100), limits = c(0,500)) +
   labs(title="",
        x="Minutes", 
        y=expression(paste("PM"[2.5], " (", mu, "g m" ^ "-3", ") "))
   ) +
-  annotate("text", colour = "white", x = min(tube_data[tube_data$line == line,]$minutes),
-           y = max(tube_data[tube_data$line == line,]$corrected_concentration),
-           label = line, size = 8, hjust = 0) +
   annotate("segment", x = min(tube_data[tube_data$line == line,]$minutes),
            xend = max(tube_data[tube_data$line == line,]$minutes),
            y = unique(tube_data[tube_data$line == line,]$pm25),

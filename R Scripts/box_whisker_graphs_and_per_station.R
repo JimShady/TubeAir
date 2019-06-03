@@ -116,7 +116,7 @@ tube_data$line <- factor(tube_data$line, levels = ordered_by_median)
 
 
 ## Set a working directory to output the graphs too.
-setwd("/home/james/mounts/James/PhD/10 - Tube Monitoring Chapter/Results")
+setwd("../Results")
 
 png("pm25_on_underground.png", width =1000, height = 800, units="px")
 ggplot(tube_data[tube_data$species == 'PM25' & tube_data$environment == 'CAR',], aes(line, corrected_concentration, fill=interaction(line))) +
@@ -139,3 +139,25 @@ ggplot(tube_data[tube_data$species == 'PM25' & tube_data$environment == 'CAR',],
 dev.off()
 
 aggregate(tube_data[tube_data$species == 'PM25' & tube_data$environment == 'CAR',]$corrected_concentration, by=list(tube_data[tube_data$species == 'PM25' & tube_data$environment == 'CAR',]$line), mean)
+
+## Make the density plot for Northern and Victoria line
+
+png("pm25_density_plots.png", width = 500, height = 300, units="px")
+ggplot(filter(tube_data, line %in% c('Victoria (-20m)', 'Northern (-17m)') & species == 'PM25'),
+       aes(corrected_concentration, colour=line)) + 
+  geom_density(size = 1) +
+  scale_color_discrete(name = 'Line') +
+  theme_bw() +
+  theme(axis.line = element_line(colour="black"),
+        axis.text=element_text(size=16, color="black"),
+        axis.title=element_text(size=16, color="black"),
+        axis.text.x=element_text(angle = 40, hjust = 1),
+        plot.title=element_text(size=16, colour="black"),
+        legend.position=c(0.85, 0.80),
+        legend.background = element_blank(),
+        legend.box.background = element_rect(colour = "black")) +
+  labs(title="",
+       y="Density", 
+       x=expression(paste("PM"[2.5], " (", mu, "g m" ^ "-3", ") "))
+  )
+dev.off()
